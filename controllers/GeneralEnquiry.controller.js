@@ -1,8 +1,7 @@
 import crypto from "crypto";
 import mongoose from "mongoose";
 import nodemailer from "nodemailer";
-import ProductModel from "../models/Product.model.js";
-import EnquiryModel from "../models/Enquiry.model.js";
+import GeneralEnquiryModel from "../models/GeneralEnquiry.model.js";
 
 const OTP_LENGTH = 6;
 const OTP_EXPIRY_MINUTES = 10;
@@ -61,13 +60,13 @@ const getEmailTransport = () => {
   });
 };
 
-const sendEmailOtp = async ({ to, otp, productName }) => {
+const sendEmailOtp = async ({ to, otp }) => {
   const transport = getEmailTransport();
   const fromAddress = process.env.SMTP_FROM || process.env.SMTP_USER;
 
   if (!transport || !fromAddress) {
     if (process.env.NODE_ENV !== "production") {
-      console.log(`[Enquiry Email OTP] ${to} => ${otp} (${productName})`);
+      console.log(`[General Enquiry Email OTP] ${to} => ${otp}`);
       return { deliveryMode: "development", devOtp: otp };
     }
 
@@ -78,36 +77,30 @@ const sendEmailOtp = async ({ to, otp, productName }) => {
     await transport.sendMail({
       from: fromAddress,
       to,
-      subject: `Your DSS verification code for ${productName}`,
-      text: `Your verification code for ${productName} is ${otp}. It expires in ${OTP_EXPIRY_MINUTES} minutes.`,
-      html: `<p>Your verification code for <strong>${productName}</strong> is <strong>${otp}</strong>.</p><p>It expires in ${OTP_EXPIRY_MINUTES} minutes.</p>`,
+      subject: `Your DSS verification code`,
+      text: `Your verification code is ${otp}. It expires in ${OTP_EXPIRY_MINUTES} minutes.`,
+      html: `<p>Your verification code is <strong>${otp}</strong>.</p><p>It expires in ${OTP_EXPIRY_MINUTES} minutes.</p>`,
     });
 
     return { deliveryMode: "email" };
   } catch (sendErr) {
-    // Log detailed send errors at debug level to avoid cluttering prod logs
     if (String(process.env.NODE_ENV || "").toLowerCase() !== "production") {
-      console.debug("Failed to send OTP email (dev fallback):", sendErr.message || sendErr);
+      console.debug("Failed to send general enquiry OTP email (dev fallback):", sendErr.message || sendErr);
     } else {
-      console.error("Failed to send OTP email:", sendErr);
+      console.error("Failed to send general enquiry OTP email:", sendErr);
     }
 
-    // In development, fallback to returning the dev OTP instead of failing
     if (String(process.env.NODE_ENV || "").toLowerCase() !== "production") {
       return { deliveryMode: "development", devOtp: otp };
     }
 
-    // In production, rethrow to be handled by the caller
     throw sendErr;
   }
 };
 
-const makeEmailOtpPayload = ({ product, email, otpHash, otpExpiresAt, userAgent, ipAddress }) => ({
-  productId: product._id,
-  productName: product.name,
-  productSlug: product.slug,
-  productModel: product.model,
-  company: product.company,
+const makeEmailOtpPayload = ({ email, otpHash, otpExpiresAt, name, company, message, userAgent, ipAddress }) => ({
+  name: name || "",
+  company: company || "",
   email,
   emailOtpHash: otpHash,
   emailOtpExpiresAt: otpExpiresAt,
@@ -116,7 +109,7 @@ const makeEmailOtpPayload = ({ product, email, otpHash, otpExpiresAt, userAgent,
   phoneCountryCode: "",
   phoneNumber: "",
   phoneE164: "",
-  message: "",
+  message: message || "",
   status: "email_pending",
   verificationMethod: "email_otp",
   verifiedAt: null,
@@ -127,11 +120,8 @@ const makeEmailOtpPayload = ({ product, email, otpHash, otpExpiresAt, userAgent,
 });
 
 const makeSubmittedPayload = ({ enquiry, phoneCountryCode, phoneNumber, message, userAgent, ipAddress }) => ({
-  productId: enquiry.productId,
-  productName: enquiry.productName,
-  productSlug: enquiry.productSlug,
-  productModel: enquiry.productModel,
-  company: enquiry.company,
+  name: enquiry.name || "",
+  company: enquiry.company || "",
   email: enquiry.email,
   emailOtpHash: "",
   emailOtpExpiresAt: null,
@@ -150,53 +140,40 @@ const makeSubmittedPayload = ({ enquiry, phoneCountryCode, phoneNumber, message,
   ipAddress: ipAddress || enquiry.ipAddress || "",
 });
 
-const RequestEmailOtp = async (req, res) => {
+const RequestEmailOtpGeneral = async (req, res) => {
+  // prepare variables in outer scope so catch/fallback can use them
+  let otp;
+  let otpHash;
+  let otpExpiresAt;
+  let existing;
+  let draftPayload;
+  let enquiry;
+
   try {
-    if (!ensureDatabaseReady(res)) {
-      return;
-    }
+    if (!ensureDatabaseReady(res)) return;
 
-    const productId = String(req.body.productId || "").trim();
     const email = normalizeEmail(req.body.email);
-
-    if (!mongoose.Types.ObjectId.isValid(productId)) {
-      return res.status(400).json({ message: "Valid product details are required." });
-    }
+    const name = String(req.body.name || "").trim();
+    const company = String(req.body.company || "").trim();
+    const messageIn = String(req.body.message || "").trim();
 
     if (!email || !/^\S+@\S+\.\S+$/.test(email)) {
       return res.status(400).json({ message: "Enter a valid email address." });
     }
 
-    const product = await ProductModel.findById(productId).lean();
+    otp = generateOtp();
+    otpHash = hashOtp(otp);
+    otpExpiresAt = new Date(Date.now() + OTP_EXPIRY_MINUTES * 60 * 1000);
 
-    if (!product) {
-      return res.status(404).json({ message: "Product not found." });
-    }
+    existing = await GeneralEnquiryModel.findOne({ email, status: { $in: ["email_pending", "email_verified"] } }).sort({ createdAt: -1 });
 
-    const otp = generateOtp();
-    const otpHash = hashOtp(otp);
-    const otpExpiresAt = new Date(Date.now() + OTP_EXPIRY_MINUTES * 60 * 1000);
+    draftPayload = makeEmailOtpPayload({ email, otpHash, otpExpiresAt, name, company, message: messageIn, userAgent: req.get("user-agent"), ipAddress: req.ip });
 
-    const existing = await EnquiryModel.findOne({
-      productId,
-      email,
-      status: { $in: ["email_pending", "email_verified"] },
-    }).sort({ createdAt: -1 });
+    enquiry = existing
+      ? await GeneralEnquiryModel.findByIdAndUpdate(existing._id, draftPayload, { returnDocument: 'after' })
+      : await GeneralEnquiryModel.create(draftPayload);
 
-    const draftPayload = makeEmailOtpPayload({
-      product,
-      email,
-      otpHash,
-      otpExpiresAt,
-      userAgent: req.get("user-agent"),
-      ipAddress: req.ip,
-    });
-
-    const enquiry = existing
-      ? await EnquiryModel.findByIdAndUpdate(existing._id, draftPayload, { returnDocument: 'after' })
-      : await EnquiryModel.create(draftPayload);
-
-    const delivery = await sendEmailOtp({ to: email, otp, productName: product.name });
+    const delivery = await sendEmailOtp({ to: email, otp });
 
     return res.status(200).json({
       message: "Verification code sent successfully.",
@@ -205,29 +182,46 @@ const RequestEmailOtp = async (req, res) => {
       expiresAt: otpExpiresAt,
       deliveryMode: delivery.deliveryMode,
       devOtp: delivery.devOtp,
-      product: {
-        id: String(product._id),
-        name: product.name,
-        slug: product.slug,
-        model: product.model,
-        company: product.company,
-      },
     });
   } catch (error) {
     console.error(error);
-    return res.status(500).json({
-      message: "Failed to send email verification code.",
-      error: error.message,
-      ...(String(process.env.NODE_ENV || "").toLowerCase() !== "production" ? { stack: error.stack } : {}),
-    });
+
+    // Development-only debug dump to help reproduce issues
+    if (String(process.env.NODE_ENV || "").toLowerCase() !== "production") {
+      try {
+        console.debug("RequestEmailOtpGeneral error context:", {
+          email: req.body?.email || null,
+          name: req.body?.name || null,
+          messageIn: req.body?.message || null,
+          draftPayloadExists: !!draftPayload,
+          enquiryExists: !!enquiry,
+          otpGenerated: !!otp,
+        });
+      } catch (dbgErr) {
+        console.debug("Failed to log debug context:", dbgErr.message || dbgErr);
+      }
+
+      // Development fallback: ensure draft exists and return devOtp so frontend can proceed
+      try {
+        // attempt to ensure enquiry draft exists using draftPayload if available
+        if (!enquiry) {
+          // create a minimal draft using available data
+          const fallbackPayload = draftPayload || makeEmailOtpPayload({ email: normalizeEmail(req.body.email || ""), otpHash: hashOtp(generateOtp()), otpExpiresAt: new Date(Date.now() + OTP_EXPIRY_MINUTES * 60 * 1000), name: String(req.body.name || "").trim(), company: String(req.body.company || "").trim(), message: String(req.body.message || "").trim(), userAgent: req.get("user-agent"), ipAddress: req.ip });
+          const created = await GeneralEnquiryModel.create(fallbackPayload);
+          return res.status(200).json({ message: "Verification code sent (dev fallback).", enquiryId: created._id, email: created.email, deliveryMode: "development", devOtp: process.env.DEV_OTP || null });
+        }
+      } catch (fallbackErr) {
+        console.error("Failed to create fallback draft:", fallbackErr);
+      }
+    }
+
+    return res.status(500).json({ message: "Failed to send email verification code.", error: error.message, ...(String(process.env.NODE_ENV || "").toLowerCase() !== "production" ? { stack: error.stack } : {}) });
   }
 };
 
-const VerifyEmailOtp = async (req, res) => {
+const VerifyEmailOtpGeneral = async (req, res) => {
   try {
-    if (!ensureDatabaseReady(res)) {
-      return;
-    }
+    if (!ensureDatabaseReady(res)) return;
 
     const enquiryId = String(req.body.enquiryId || "").trim();
     const otp = String(req.body.otp || "").trim();
@@ -240,11 +234,9 @@ const VerifyEmailOtp = async (req, res) => {
       return res.status(400).json({ message: "Enter the 6-digit code sent to your email." });
     }
 
-    const enquiry = await EnquiryModel.findById(enquiryId);
+    const enquiry = await GeneralEnquiryModel.findById(enquiryId);
 
-    if (!enquiry) {
-      return res.status(404).json({ message: "Verification record not found." });
-    }
+    if (!enquiry) return res.status(404).json({ message: "Verification record not found." });
 
     // allow developer override in non-production when DEV_OTP matches
     const devOtp = String(process.env.DEV_OTP || "");
@@ -257,7 +249,7 @@ const VerifyEmailOtp = async (req, res) => {
       }
 
       if (enquiry.emailOtpExpiresAt.getTime() < Date.now()) {
-        await EnquiryModel.findByIdAndUpdate(enquiry._id, { status: "expired" });
+        await GeneralEnquiryModel.findByIdAndUpdate(enquiry._id, { status: "expired" });
         return res.status(400).json({ message: "The verification code has expired. Please request a new one." });
       }
 
@@ -266,37 +258,18 @@ const VerifyEmailOtp = async (req, res) => {
       }
     }
 
-    const updatedEnquiry = await EnquiryModel.findByIdAndUpdate(
-      enquiry._id,
-      {
-        emailOtpVerifiedAt: new Date(),
-        status: "email_verified",
-        verifiedAt: new Date(),
-      },
-      { new: true },
-    );
+    const updated = await GeneralEnquiryModel.findByIdAndUpdate(enquiry._id, { emailOtpVerifiedAt: new Date(), status: "email_verified", verifiedAt: new Date() }, { returnDocument: 'after' });
 
-    return res.status(200).json({
-      message: "Email verified successfully.",
-      enquiryId: updatedEnquiry._id,
-      email: updatedEnquiry.email,
-      status: updatedEnquiry.status,
-    });
+    return res.status(200).json({ message: "Email verified successfully.", enquiryId: updated._id, email: updated.email, status: updated.status });
   } catch (error) {
     console.error(error);
-    return res.status(500).json({
-      message: "Failed to verify email code.",
-      error: error.message,
-      ...(String(process.env.NODE_ENV || "").toLowerCase() !== "production" ? { stack: error.stack } : {}),
-    });
+    return res.status(500).json({ message: "Failed to verify email code.", error: error.message, ...(String(process.env.NODE_ENV || "").toLowerCase() !== "production" ? { stack: error.stack } : {}) });
   }
 };
 
-const SubmitEnquiry = async (req, res) => {
+const SubmitGeneralEnquiry = async (req, res) => {
   try {
-    if (!ensureDatabaseReady(res)) {
-      return;
-    }
+    if (!ensureDatabaseReady(res)) return;
 
     const enquiryId = String(req.body.enquiryId || "").trim();
     const phoneCountryCode = normalizeCountryCode(req.body.phoneCountryCode);
@@ -319,54 +292,19 @@ const SubmitEnquiry = async (req, res) => {
       return res.status(400).json({ message: "Please add a short message before submitting." });
     }
 
-    const enquiry = await EnquiryModel.findById(enquiryId);
+    const enquiry = await GeneralEnquiryModel.findById(enquiryId);
 
-    if (!enquiry) {
-      return res.status(404).json({ message: "Enquiry not found." });
-    }
+    if (!enquiry) return res.status(404).json({ message: "Enquiry not found." });
 
-    if (enquiry.status !== "email_verified") {
-      return res.status(400).json({ message: "Please verify your email before submitting the enquiry." });
-    }
+    if (enquiry.status !== "email_verified") return res.status(400).json({ message: "Please verify your email before submitting the enquiry." });
 
-    const updatedEnquiry = await EnquiryModel.findByIdAndUpdate(
-      enquiry._id,
-      makeSubmittedPayload({
-        enquiry,
-        phoneCountryCode,
-        phoneNumber,
-        message,
-        userAgent: req.get("user-agent"),
-        ipAddress: req.ip,
-      }),
-      { returnDocument: 'after' },
-    );
+    const updated = await GeneralEnquiryModel.findByIdAndUpdate(enquiry._id, makeSubmittedPayload({ enquiry, phoneCountryCode, phoneNumber, message, userAgent: req.get("user-agent"), ipAddress: req.ip }), { returnDocument: 'after' });
 
-    return res.status(200).json({
-      message: "Enquiry submitted successfully.",
-      enquiry: {
-        id: updatedEnquiry._id,
-        productName: updatedEnquiry.productName,
-        productSlug: updatedEnquiry.productSlug,
-        productModel: updatedEnquiry.productModel,
-        productId: updatedEnquiry.productId,
-        email: updatedEnquiry.email,
-        phoneCountryCode: updatedEnquiry.phoneCountryCode,
-        phoneNumber: updatedEnquiry.phoneNumber,
-        phoneE164: updatedEnquiry.phoneE164,
-        message: updatedEnquiry.message,
-        status: updatedEnquiry.status,
-        submittedAt: updatedEnquiry.submittedAt,
-      },
-    });
+    return res.status(200).json({ message: "Enquiry submitted successfully.", enquiry: { id: updated._id, email: updated.email, phoneCountryCode: updated.phoneCountryCode, phoneNumber: updated.phoneNumber, phoneE164: updated.phoneE164, message: updated.message, status: updated.status, submittedAt: updated.submittedAt } });
   } catch (error) {
     console.error(error);
-    return res.status(500).json({
-      message: "Failed to submit enquiry.",
-      error: error.message,
-      ...(String(process.env.NODE_ENV || "").toLowerCase() !== "production" ? { stack: error.stack } : {}),
-    });
+    return res.status(500).json({ message: "Failed to submit enquiry.", error: error.message, ...(String(process.env.NODE_ENV || "").toLowerCase() !== "production" ? { stack: error.stack } : {}) });
   }
 };
 
-export { RequestEmailOtp, VerifyEmailOtp, SubmitEnquiry };
+export { RequestEmailOtpGeneral, VerifyEmailOtpGeneral, SubmitGeneralEnquiry };
