@@ -1,0 +1,987 @@
+[
+  {
+    "product_name": "64-CH 4K Network Video Recorder",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Network Video Recorder",
+    "model_name": "PT-NR3A64-M16/R",
+    "features": [
+      "Supports up to 64-channel IP camera inputs",
+      "Up to 2-ch@32 MP + 2-ch@8 MP/10-ch@8 MP/20-ch@4 MP/40-ch@1080p decoding capacity",
+      "RAID configurations (RAID 0, 1, 5, 6, 10) and N+M hot spare provide resilient data storage and mitigate data loss risks",
+      "Equipped with redundant power supply for uninterrupted operation",
+      "Equipped with two HDMI and two VGA ports, each supporting independent output sources, and capable of delivering either 8K resolution or two simultaneous 4K video outputs",
+      "Features 16 SATA interfaces with supporting hot-plug & 1 eSATA interfaces for HDD connections",
+      "Supports 16-channel synchronous playback protected by dual verification",
+      "Self-adaptive Ethernet interfaces: 2 RJ-45 10/100/1000 Mbps"
+    ],
+    "specifications": {
+      "IP Camera Inputs": [
+        "Supports up to 64-channel IP camera inputs",
+        "Decoding capacity: Upto 2-ch@32 MP + 2-ch@8 MP / 10-ch@8 MP / 20-ch@4 MP / 40-ch@1080p"
+      ],
+      "Enterprise-Grade Performance": [
+        "RAID Support: RAID 0, 1, 5, 6, 10",
+        "Hot Spare: N+M hot spare",
+        "Power Supply: Redundant power supply equipped"
+      ],
+      "HD Video Output": [
+        "Ports: 2 x HDMI, 2 x VGA",
+        "Output Mode: Independent output sources",
+        "Resolution: Capable of delivering either 8K resolution or two simultaneous 4K video outputs"
+      ],
+      "Storage and Playback": [
+        "SATA Interfaces: 16 SATA interfaces with hot-plug support",
+        "eSATA Interface: 1 eSATA interface for HDD connection",
+        "Synchronous Playback: 16-channel",
+        "Security Access: Playback and download access protected by dual verification"
+      ],
+      "Network & Ethernet Access": [
+        "Ethernet Interfaces: 2 x RJ-45 10/100/1000 Mbps self-adaptive",
+        "Mobile App: User-friendly mobile app for seamless network access",
+        "Streaming Tech: Advanced technology ensures seamless and uninterrupted video streaming"
+      ]
+    },
+    "image_url": "https://golchhacomputer.com/uploads/products/68c3d678bb1a0.png"
+  },
+  {
+    "product_name": "K2 Series Network Video Recorder (08-CH)",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Network Video Recorder",
+    "model_name": "PT-NRAS2A08-K2",
+    "features": [
+      "All channels support Motion Detection 2.0",
+      "Upto 1-ch facial recognition for video stream, or 4-ch facial recognition for face picture",
+      "Smart search for the selected area in the video, and smart playback to improve the playback efficiency",
+      "Efficient H.265 compression method for high-quality video and reduces storage space",
+      "Adopt stream over TLS encryption technology which provides more secure stream transmission service",
+      "Provide independent HDMI and VGA outputs with HDMI at up to 4K resolution",
+      "Up to 2 SATA interfaces for HDD connection (up to 10 TB capacity per HDD)",
+      "16-ch synchronous playback"
+    ],
+    "specifications": {
+      "Smart Function": [
+        "Motion Detection: All channels support Motion Detection 2.0",
+        "Facial Recognition: Upto 1-ch facial recognition for video stream, or 4-ch facial recognition for face picture",
+        "Search & Playback: Smart search for the selected area in the video, and smart playback to improve efficiency"
+      ],
+      "Professional and Reliability": [
+        "Compression: Efficient H.265 compression method",
+        "Encryption: Stream over TLS encryption technology"
+      ],
+      "HD Video Output": [
+        "Outputs: Independent HDMI and VGA outputs",
+        "HDMI Resolution: Up to 4K resolution"
+      ],
+      "Storage and Playback": [
+        "SATA Interfaces: Up to 2 SATA interfaces for HDD connection",
+        "HDD Capacity: Up to 10 TB capacity per HDD",
+        "Synchronous Playback: 16-ch synchronous playback"
+      ],
+      "Network & Ethernet Access": [
+        "Ethernet Interfaces: 1 x self-adaptive 10/100/1000 Mbps Ethernet interface",
+        "Network Management: PRAMA Online for easy network management"
+      ]
+    },
+    "image_url": "https://golchhacomputer.com/uploads/products/68c3d678bb1a0.png"
+  },
+  {
+    "product_name": "K2 Series Network Video Recorder (16-CH)",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Network Video Recorder",
+    "model_name": "PT-NRAS2A16-K2",
+    "features": [
+      "All channels support Motion Detection 2.0",
+      "Upto 1-ch facial recognition for video stream, or 4-ch facial recognition for face picture",
+      "Smart search for the selected area in the video, and smart playback to improve the playback efficiency",
+      "Efficient H.265 compression method for high-quality video and reduces storage space",
+      "Adopt stream over TLS encryption technology which provides more secure stream transmission service",
+      "Provide independent HDMI and VGA outputs with HDMI at up to 4K resolution",
+      "Up to 2 SATA interfaces for HDD connection (up to 10 TB capacity per HDD)",
+      "16-ch synchronous playback"
+    ],
+    "specifications": {
+      "Smart Function": [
+        "Motion Detection: All channels support Motion Detection 2.0",
+        "Facial Recognition: Upto 1-ch facial recognition for video stream, or 4-ch facial recognition for face picture",
+        "Search & Playback: Smart search for the selected area in the video, and smart playback to improve efficiency"
+      ],
+      "Professional and Reliability": [
+        "Compression: Efficient H.265 compression method",
+        "Encryption: Stream over TLS encryption technology"
+      ],
+      "HD Video Output": [
+        "Outputs: Independent HDMI and VGA outputs",
+        "HDMI Resolution: Up to 4K resolution"
+      ],
+      "Storage and Playback": [
+        "SATA Interfaces: Up to 2 SATA interfaces for HDD connection",
+        "HDD Capacity: Up to 10 TB capacity per HDD",
+        "Synchronous Playback: 16-ch synchronous playback"
+      ],
+      "Network & Ethernet Access": [
+        "Ethernet Interfaces: 1 x self-adaptive 10/100/1000 Mbps Ethernet interface",
+        "Network Management: PRAMA Online for easy network management"
+      ]
+    },
+    "image_url": "https://golchhacomputer.com/uploads/products/68c3d678bb1a0.png"
+  },
+  {
+    "product_name": "K2 Series Network Video Recorder (32-CH)",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Network Video Recorder",
+    "model_name": "PT-NRAS2A32-K2",
+    "features": [
+      "All channels support Motion Detection 2.0",
+      "Upto 1-ch facial recognition for video stream, or 4-ch facial recognition for face picture",
+      "Smart search for the selected area in the video, and smart playback to improve the playback efficiency",
+      "Efficient H.265 compression method for high-quality video and reduces storage space",
+      "Adopt stream over TLS encryption technology which provides more secure stream transmission service",
+      "Provide independent HDMI and VGA outputs with HDMI at up to 4K resolution",
+      "Up to 2 SATA interfaces for HDD connection (up to 10 TB capacity per HDD)",
+      "16-ch synchronous playback"
+    ],
+    "specifications": {
+      "Smart Function": [
+        "Motion Detection: All channels support Motion Detection 2.0",
+        "Facial Recognition: Upto 1-ch facial recognition for video stream, or 4-ch facial recognition for face picture",
+        "Search & Playback: Smart search for the selected area in the video, and smart playback to improve efficiency"
+      ],
+      "Professional and Reliability": [
+        "Compression: Efficient H.265 compression method",
+        "Encryption: Stream over TLS encryption technology"
+      ],
+      "HD Video Output": [
+        "Outputs: Independent HDMI and VGA outputs",
+        "HDMI Resolution: Up to 4K resolution"
+      ],
+      "Storage and Playback": [
+        "SATA Interfaces: Up to 2 SATA interfaces for HDD connection",
+        "HDD Capacity: Up to 10 TB capacity per HDD",
+        "Synchronous Playback: 16-ch synchronous playback"
+      ],
+      "Network & Ethernet Access": [
+        "Ethernet Interfaces: 1 x self-adaptive 10/100/1000 Mbps Ethernet interface",
+        "Network Management: PRAMA Online for easy network management"
+      ]
+    },
+    "image_url": "https://golchhacomputer.com/uploads/products/68c3d678bb1a0.png"
+  },
+  {
+    "product_name": "K4 Series Network Video Recorder (16-CH)",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Network Video Recorder",
+    "model_name": "PT-NRAS2B16-K4",
+    "features": [
+      "All channels support intelligent learning based Motion Detection",
+      "1-ch facial recognition for video stream, or 4-ch facial recognition for face picture",
+      "Smart search for the selected area in the video, and smart playback to improve the playback efficiency",
+      "H.265 compression effectively reduces the storage space by up to 75%",
+      "Adopt stream over TLS encryption technology which provides more secure stream transmission service",
+      "Provide independent HDMI and VGA outputs with HDMI at up to 4K resolution",
+      "Up to 4 SATA interfaces for HDD connection (up to 10 TB capacity per HDD)",
+      "16-ch synchronous playback",
+      "2 self-adaptive 10/100/1000 Mbps Ethernet interfaces"
+    ],
+    "specifications": {
+      "Smart Function": [
+        "Motion Detection: All channels support intelligent learning based Motion Detection",
+        "Facial Recognition: 1-ch facial recognition for video stream, or 4-ch facial recognition for face picture",
+        "Search & Playback: Smart search for the selected area in the video, and smart playback to improve efficiency"
+      ],
+      "Professional and Reliability": [
+        "Compression: H.265 compression effectively reduces storage space by up to 75%",
+        "Encryption: Stream over TLS encryption technology"
+      ],
+      "HD Video Output": [
+        "Outputs: Independent HDMI and VGA outputs",
+        "HDMI Resolution: Up to 4K resolution"
+      ],
+      "Storage and Playback": [
+        "SATA Interfaces: Up to 4 SATA interfaces for HDD connection",
+        "HDD Capacity: Up to 10 TB capacity per HDD",
+        "Synchronous Playback: 16-ch synchronous playback"
+      ],
+      "Network & Ethernet Access": [
+        "Ethernet Interfaces: 2 self-adaptive 10/100/1000 Mbps Ethernet interfaces",
+        "Network Management: PRAMA Online for easy network management"
+      ]
+    },
+    "image_url": "https://static.wixstatic.com/media/fa1b6a_5eb6d64368274675989c552199484d87~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg"
+  },
+  {
+    "product_name": "K4 Series Network Video Recorder (32-CH)",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Network Video Recorder",
+    "model_name": "PT-NRAS2B32-K4",
+    "features": [
+      "All channels support intelligent learning based Motion Detection",
+      "1-ch facial recognition for video stream, or 4-ch facial recognition for face picture",
+      "Smart search for the selected area in the video, and smart playback to improve the playback efficiency",
+      "H.265 compression effectively reduces the storage space by up to 75%",
+      "Adopt stream over TLS encryption technology which provides more secure stream transmission service",
+      "Provide independent HDMI and VGA outputs with HDMI at up to 4K resolution",
+      "Up to 4 SATA interfaces for HDD connection (up to 10 TB capacity per HDD)",
+      "16-ch synchronous playback",
+      "2 self-adaptive 10/100/1000 Mbps Ethernet interfaces"
+    ],
+    "specifications": {
+      "Smart Function": [
+        "Motion Detection: All channels support intelligent learning based Motion Detection",
+        "Facial Recognition: 1-ch facial recognition for video stream, or 4-ch facial recognition for face picture",
+        "Search & Playback: Smart search for the selected area in the video, and smart playback to improve efficiency"
+      ],
+      "Professional and Reliability": [
+        "Compression: H.265 compression effectively reduces storage space by up to 75%",
+        "Encryption: Stream over TLS encryption technology"
+      ],
+      "HD Video Output": [
+        "Outputs: Independent HDMI and VGA outputs",
+        "HDMI Resolution: Up to 4K resolution"
+      ],
+      "Storage and Playback": [
+        "SATA Interfaces: Up to 4 SATA interfaces for HDD connection",
+        "HDD Capacity: Up to 10 TB capacity per HDD",
+        "Synchronous Playback: 16-ch synchronous playback"
+      ],
+      "Network & Ethernet Access": [
+        "Ethernet Interfaces: 2 self-adaptive 10/100/1000 Mbps Ethernet interfaces",
+        "Network Management: PRAMA Online for easy network management"
+      ]
+    },
+    "image_url": "https://golchhacomputer.com/uploads/products/6853ff6f81dce.jpg"
+  },
+  {
+    "product_name": "2 MP Dual Light Fixed Bullet Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Fixed Lens Cameras",
+    "model_name": "PT-NC320P1-WNM(D2)",
+    "features": [
+      "High-Quality Imaging: 2MP resolution ensures superior image quality",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Smart Dual Light: Advanced technology with up to 30 m range",
+      "3D DNR: 3D DNR technology delivers clean and sharp images",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Audio Security: Built-in microphone for real-time audio security",
+      "Durable Design: Water and dust resistant (IP67)"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 2MP",
+        "Compression: H.265",
+        "Smart Dual Light Range: Up to 30 m",
+        "Noise Reduction: 3D DNR",
+        "WDR: 120 dB true WDR technology",
+        "Audio: Built-in microphone",
+        "Protection Rating: IP67"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2026/1/573035794/PC/NV/CX/3043432/prama-2mp-ip-bullet-ranginview-project-series-pt-nc320p1-wnm-d2-500x500.png"
+  },
+  {
+    "product_name": "4 MP Dual Light Fixed Bullet Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Fixed Lens Cameras",
+    "model_name": "PT-NC340P1-WNM(D2)",
+    "features": [
+      "High-Quality Imaging: 4MP resolution ensures superior image quality",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Smart Dual Light: Advanced technology with IR: up to 30 m & White Light: up to 20 m",
+      "3D DNR: 3D DNR technology delivers clean and sharp images",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Audio Security: Built-in microphone for real-time audio security",
+      "Durable Design: Water and dust resistant (IP67)"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 4MP",
+        "Compression: H.265",
+        "Smart Dual Light Range: IR up to 30 m & White Light up to 20 m",
+        "Noise Reduction: 3D DNR",
+        "WDR: 120 dB true WDR technology",
+        "Audio: Built-in microphone",
+        "Protection Rating: IP67"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2026/1/580059065/WK/UZ/HE/12083819/pt-nc340p1-wnm-d2-500x500.jpg"
+  },
+  {
+    "product_name": "6 MP Dual Light Fixed Bullet Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Fixed Lens Cameras",
+    "model_name": "PT-NC360P1-WNMS(D2)",
+    "features": [
+      "High-Quality Imaging: 6MP resolution ensures superior image quality",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Smart Dual Light: Advanced technology with up to 30 m range",
+      "Advanced DNR Technology: 3D DNR technology delivers clean and sharp images",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Audio Security: Built-in microphone for real-time audio security",
+      "Durable Design: Water and dust resistant (IP67)"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 6MP",
+        "Compression: H.265",
+        "Smart Dual Light Range: Up to 30 m",
+        "Noise Reduction: 3D DNR",
+        "WDR: 120 dB true WDR technology",
+        "Audio: Built-in microphone",
+        "Protection Rating: IP67"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2026/5/604829361/FD/XY/XN/35929011/prama-pt-nc360p3-wnm-d2-bullet-camera-500x500.png"
+  },
+  {
+    "product_name": "2 MP Dual Light Fixed Dome Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Fixed Lens Cameras",
+    "model_name": "PT-NC321P1-WNAMS(D2)",
+    "features": [
+      "High-Quality Imaging: 2MP resolution ensures superior image quality",
+      "Target Classification: Focus on human and vehicle classification based on advanced Al algorithms, supports in Motion detection event",
+      "Smart Dual Light: Advanced technology with Up to 30 m range",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Advanced DNR Technology: 3D DNR technology delivers clean and sharp images",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Audio Security: Built-in microphone for real-time audio security",
+      "On-Board Storage: Supports storage up to 512 GB (SD card slot)",
+      "Durable Design: Water and dust resistant (IP67)"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 2MP",
+        "AI Analytics: Human and vehicle target classification in Motion Detection",
+        "Smart Dual Light Range: Up to 30 m",
+        "Compression: H.265",
+        "Noise Reduction: 3D DNR",
+        "WDR: 120 dB true WDR technology",
+        "Audio: Built-in microphone",
+        "Storage: MicroSD card slot up to 512 GB",
+        "Protection Rating: IP67"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/9/548254114/QF/FN/LE/39004216/pt-nc361p1-wnms-d2-prama-500x500.png"
+  },
+  {
+    "product_name": "4 MP Dual Light Fixed Dome Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Fixed Lens Cameras",
+    "model_name": "PT-NC341P1-WNAMS(D2)",
+    "features": [
+      "High-Quality Imaging: 4MP resolution ensures superior image quality",
+      "Target Classification: Focus on human and vehicle classification based on advanced Al algorithms, supports in Motion detection event",
+      "Smart Dual Light: Advanced technology with Up to 30 m range",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Advanced DNR Technology: 3D DNR technology delivers clean and sharp images",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Audio Security: Built-in microphone for real-time audio security",
+      "On-Board Storage: Supports storage up to 512 GB (SD card slot)",
+      "Durable Design: Water and dust resistant (IP67)"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 4MP",
+        "AI Analytics: Human and vehicle target classification in Motion Detection",
+        "Smart Dual Light Range: Up to 30 m",
+        "Compression: H.265",
+        "Noise Reduction: 3D DNR",
+        "WDR: 120 dB true WDR technology",
+        "Audio: Built-in microphone",
+        "Storage: MicroSD card slot up to 512 GB",
+        "Protection Rating: IP67"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/9/548254114/QF/FN/LE/39004216/pt-nc361p1-wnms-d2-prama-500x500.png"
+  },
+  {
+    "product_name": "6 MP Dual Light Fixed Dome Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Fixed Lens Cameras",
+    "model_name": "PT-NC361P1-WNMS(D2)",
+    "features": [
+      "High-Quality Imaging: 6MP resolution ensures superior image quality",
+      "Target Classification: Focus on human and vehicle classification based on advanced Al algorithms, supports in Motion detection event",
+      "Smart Dual Light: advanced technology with Up to 30 m range",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Advanced DNR Technology: 3D DNR technology delivers clean and sharp images",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Audio Security: Built-in microphone for real-time audio security",
+      "On-Board Storage: Supports storage up to 512 GB (SD card slot)",
+      "Durable Design: Water and dust resistant (IP67)"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 6MP",
+        "AI Analytics: Human and vehicle target classification in Motion Detection",
+        "Smart Dual Light Range: Up to 30 m",
+        "Compression: H.265",
+        "Noise Reduction: 3D DNR",
+        "WDR: 120 dB true WDR technology",
+        "Audio: Built-in microphone",
+        "Storage: MicroSD card slot up to 512 GB",
+        "Protection Rating: IP67"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/9/548256027/SY/DY/SY/39004216/pt-nc363p1-wnms-d2-prama-500x500.png"
+  },
+  {
+    "product_name": "2 MP Dual Light Fixed Turret Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Fixed Lens Cameras",
+    "model_name": "PT-NC323P1-WNMS(D2)",
+    "features": [
+      "High-Quality Imaging: 2MP resolution ensures superior image quality",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Smart Dual Light: Advanced technology with up to 30 m range",
+      "Advanced DNR Technology: 3D DNR technology delivers clean and sharp images",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Audio Security: Built-in microphone for real-time audio security",
+      "Durable Design: Water and dust resistant (IP67)"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 2MP",
+        "Compression: H.265",
+        "Smart Dual Light Range: Up to 30 m",
+        "Noise Reduction: 3D DNR",
+        "WDR: 120 dB true WDR technology",
+        "Audio: Built-in microphone",
+        "Protection Rating: IP67"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/9/548254114/QF/FN/LE/39004216/pt-nc361p1-wnms-d2-prama-500x500.png"
+  },
+  {
+    "product_name": "4 MP Dual Light Fixed Turret Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Fixed Lens Cameras",
+    "model_name": "PT-NC343P1-WNMS(D2)",
+    "features": [
+      "High-Quality Imaging: 4MP resolution ensures superior image quality",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Smart Dual Light: Advanced technology with IR: up to 30 m & White Light: up to 20 m",
+      "Advanced DNR Technology: 3D DNR technology delivers clean and sharp images",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Audio Security: Built-in microphone for real-time audio security",
+      "Durable Design: Water and dust resistant (IP67)"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 4MP",
+        "Compression: H.265",
+        "Smart Dual Light Range: IR up to 30 m & White Light up to 20 m",
+        "Noise Reduction: 3D DNR",
+        "WDR: 120 dB true WDR technology",
+        "Audio: Built-in microphone",
+        "Protection Rating: IP67"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/9/548254114/QF/FN/LE/39004216/pt-nc361p1-wnms-d2-prama-500x500.png"
+  },
+  {
+    "product_name": "6 MP Dual Light Fixed Turret Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Fixed Lens Cameras",
+    "model_name": "PT-NC363P1-WNMS(D2)",
+    "features": [
+      "High-Quality Imaging: 6MP resolution ensures superior image quality",
+      "Target Classification: Focus on human and vehicle classification based on advanced Al algorithms, supports in Motion detection event",
+      "Smart Dual Light: Advanced technology with up to 30 m range",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "On-Board Storage: Supports storage up to 512 GB (SD card slot)",
+      "Durable Design: Water and dust resistant (IP67)"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 6MP",
+        "AI Analytics: Human and vehicle target classification in Motion Detection",
+        "Smart Dual Light Range: Up to 30 m",
+        "Compression: H.265",
+        "Storage: MicroSD card slot up to 512 GB",
+        "Protection Rating: IP67"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/9/548256027/SY/DY/SY/39004216/pt-nc363p1-wnms-d2-prama-500x500.png"
+  },
+  {
+    "product_name": "2 MP Varifocal Dual Light Bullet Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Varifocal Cameras",
+    "model_name": "PT-NC326P1-WNRAM(D2)",
+    "features": [
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "IR range up to 50 m range",
+      "Advanced DNR Technology: 3D DNR technology delivers clean and sharp images",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Motorized Focus Lens: Simplifies both installation and monitoring",
+      "Easy Installation: Features PoE technology for easy installation",
+      "Durable Design: Water and dust resistant (IP67) and vandal resistant (IK10) for robust protection"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 2MP",
+        "Compression: H.265",
+        "Infrared Range: Up to 50 m",
+        "Noise Reduction: 3D DNR",
+        "WDR: 120 dB true WDR technology",
+        "Lens Type: Motorized Focus Lens",
+        "Installation Support: PoE technology built-in",
+        "Durable Defense: IP67 weatherproof and IK10 vandal-resistant rated"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/11/557872861/JY/KK/AH/255202718/prama-pt-nc127d3-wnram-d2-dual-light-varifocal-dome-network-camera-500x500.jpg"
+  },
+  {
+    "product_name": "4 MP Varifocal Dual Light Bullet Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Varifocal Cameras",
+    "model_name": "PT-NC346P1-WNRAM(D2)",
+    "features": [
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "IR range up to 50 m range",
+      "Advanced DNR Technology: 3D DNR technology delivers clean and sharp images",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Motorized Focus Lens: Simplifies both installation and monitoring",
+      "Easy Installation: Features PoE technology for easy installation",
+      "Durable Design: Water & dust resistant (IP67) & vandal-resistant (IK10) for robust protection"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 4MP",
+        "Compression: H.265",
+        "Infrared Range: Up to 50 m",
+        "Noise Reduction: 3D DNR",
+        "WDR: 120 dB true WDR technology",
+        "Lens Type: Motorized Focus Lens",
+        "Installation Support: PoE technology built-in",
+        "Durable Defense: IP67 weatherproof and IK10 vandal-resistant rated"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/11/557872861/JY/KK/AH/255202718/prama-pt-nc127d3-wnram-d2-dual-light-varifocal-dome-network-camera-500x500.jpg"
+  },
+  {
+    "product_name": "2 MP Varifocal Dual Light Dome Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Varifocal Cameras",
+    "model_name": "PT-NC327P1-WNRAM(D2)",
+    "features": [
+      "High-Quality Imaging: 2MP resolution ensures superior image quality",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Smart Dual Light: Advanced technology with up to 30 m range",
+      "Advanced DNR Technology: 3D DNR technology delivers clean and sharp images",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Motorized Focus Lens: Simplifies both installation and monitoring",
+      "Easy Installation: Features PoE technology for easy installation",
+      "Durable Design: Water and dust resistant (IP67) and vandal-resistant (IK10) for robust protection"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 2MP",
+        "Compression: H.265",
+        "Smart Dual Light Range: Up to 30 m",
+        "Noise Reduction: 3D DNR",
+        "WDR: 120 dB true WDR technology",
+        "Lens Type: Motorized Focus Lens",
+        "Installation Support: PoE technology built-in",
+        "Durable Defense: IP67 weatherproof and IK10 vandal-resistant rated"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/11/557872861/JY/KK/AH/255202718/prama-pt-nc127d3-wnram-d2-dual-light-varifocal-dome-network-camera-500x500.jpg"
+  },
+  {
+    "product_name": "4 MP Varifocal Dual Light Dome Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Varifocal Cameras",
+    "model_name": "PT-NC347P1-WNRAM(D2)",
+    "features": [
+      "High-Quality Imaging: 4MP resolution ensures superior image quality",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Smart Dual Light: Advanced technology with up to 30 m range",
+      "Advanced DNR Technology: 3D DNR technology delivers clean and sharp images",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Motorized Focus Lens: Simplifies both installation and monitoring",
+      "Easy Installation: Features PoE technology for easy installation",
+      "Durable Design: Water and dust resistant (IP67) and vandal-resistant (IK10) for robust protection"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 4MP",
+        "Compression: H.265",
+        "Smart Dual Light Range: Up to 30 m",
+        "Noise Reduction: 3D DNR",
+        "WDR: 120 dB true WDR technology",
+        "Lens Type: Motorized Focus Lens",
+        "Installation Support: PoE technology built-in",
+        "Durable Defense: IP67 weatherproof and IK10 vandal-resistant rated"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/11/557872861/JY/KK/AH/255202718/prama-pt-nc127d3-wnram-d2-dual-light-varifocal-dome-network-camera-500x500.jpg"
+  },
+  {
+    "product_name": "6 MP Varifocal Dual Light Dome Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Varifocal Cameras",
+    "model_name": "PT-NC367P1-WNRAM(D2)",
+    "features": [
+      "High-Quality Imaging: 6MP resolution ensures superior image quality",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Smart Dual Light: Advanced technology with up to 30 m range",
+      "Advanced DNR Technology: 3D DNR technology delivers clean and sharp images",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Motorized Focus Lens: Simplifies both installation and monitoring",
+      "Easy Installation: Features PoE technology for easy installation",
+      "Durable Design: Water and dust resistant (IP67) and vandal resistant (IK10) for robust protection"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 6MP",
+        "Compression: H.265",
+        "Smart Dual Light Range: Up to 30 m",
+        "Noise Reduction: 3D DNR",
+        "WDR: 120 dB true WDR technology",
+        "Lens Type: Motorized Focus Lens",
+        "Installation Support: PoE technology built-in",
+        "Durable Defense: IP67 weatherproof and IK10 vandal-resistant rated"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/11/557872861/JY/KK/AH/255202718/prama-pt-nc127d3-wnram-d2-dual-light-varifocal-dome-network-camera-500x500.jpg"
+  },
+  {
+    "product_name": "6 MP Dual Light Fixed Bullet Network Camera (Two-Way Audio)",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Two-Way Audio Series Camera",
+    "model_name": "PT-NC360P1-WNMS/AW(D2)",
+    "features": [
+      "High-Quality Imaging: 6MP resolution ensures superior image quality",
+      "Target Classification: Focus on human and vehicle classification based on advanced Al algorithms, supports in Motion detection event",
+      "Smart Dual Light: Advanced technology with up to 30 m range",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "On-Board Storage: Supports storage up to 512 GB (SD card slot)",
+      "Audio Security: Provide real-time security via built-in two-way audio",
+      "Durable Design: Water and dust resistant (IP67)"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 6MP",
+        "AI Analytics: Human and vehicle classification in Motion Detection",
+        "Smart Dual Light Range: Up to 30 m",
+        "Compression: H.265",
+        "On-Board Storage: Support up to 512 GB MicroSD",
+        "Audio Interface: Built-in interactive Two-Way Audio",
+        "Protection Rating: IP67"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2026/5/604829361/FD/XY/XN/35929011/prama-pt-nc360p3-wnm-d2-bullet-camera-500x500.png"
+  },
+  {
+    "product_name": "6 MP Dual Light Fixed Turret Network Camera (Two-Way Audio)",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Two-Way Audio Series Camera",
+    "model_name": "PT-NC363P1-WNMS/AW(D2)",
+    "features": [
+      "High-Quality Imaging: 6MP resolution ensures superior image quality",
+      "Target Classification: Focus on human and vehicle classification based on advanced Al algorithms, supports in Motion detection event",
+      "Smart Dual Light: Advanced technology with up to 30 m range",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "On-Board Storage: Supports storage up to 512 GB (SD card slot)",
+      "Audio Security: Provide real-time security via built-in two-way audio",
+      "Durable Design: Water and dust resistant (IP67)"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 6MP",
+        "AI Analytics: Human and vehicle classification in Motion Detection",
+        "Smart Dual Light Range: Up to 30 m",
+        "Compression: H.265",
+        "On-Board Storage: Support up to 512 GB MicroSD",
+        "Audio Interface: Built-in interactive Two-Way Audio",
+        "Protection Rating: IP67"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/9/548256027/SY/DY/SY/39004216/pt-nc363p1-wnms-d2-prama-500x500.png"
+  },
+  {
+    "product_name": "6 MP Fixed Bullet Network Camera (Pro Series)",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "Pro Series",
+    "model_name": "PT-NC36TP3-4NAM(D2)",
+    "features": [
+      "High-Quality Imaging: 6MP resolution ensures superior image quality.",
+      "Target Classification: Focus on human and vehicle classification based on advanced Al algorithms, supports in Motion detection event.",
+      "Efficient Compression: Efficient H.265 compression technology",
+      "IR range up to 90 m range",
+      "Durable Design: Water and dust resistant (IP67) and vandal-resistant (IK10) for robust protection.",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Audio Security: Built-in microphone for real-time audio security"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 6MP",
+        "AI Analytics: Human & vehicle classification targeting in Motion Detection",
+        "Compression: H.265",
+        "Infrared Range: High-range up to 90 m",
+        "Durable Structure: IP67 weatherproof and IK10 vandal-proof protection",
+        "WDR Level: 120 dB true WDR",
+        "Audio Security: Built-in microphone included"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2026/5/604829361/FD/XY/XN/35929011/prama-pt-nc360p3-wnm-d2-bullet-camera-500x500.png"
+  },
+  {
+    "product_name": "4 MP RanginView Series Fixed Bullet Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "RanginView Series Camera",
+    "model_name": "PT-NC340P7-WNMS/AW(D2)",
+    "features": [
+      "High-Quality Imaging: 4MP resolution ensures superior image quality",
+      "Round-the-Clock Color Imaging: Ensures color imaging at all times with advanced technology and an F1.0 aperture",
+      "Target Classification: Focus on human and vehicle classification based on advanced Al algorithms, supports in Motion detection event",
+      "Smart Dual Light: Advanced technology with up to 30 m range",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Audio Security: Built-in microphone for real-time audio security",
+      "On-Board Storage: Supports storage up to 512 GB (SD card slot)",
+      "Durable Design: Water and dust resistant (IP67)"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 4MP",
+        "Color Imaging: Round-the-clock full color via F1.0 large aperture",
+        "AI Analytics: Advanced human and vehicle target focus in Motion Detection",
+        "Smart Dual Light Range: Up to 30 m",
+        "Compression Format: H.265",
+        "Audio Setup: Built-in microphone and strobe alert features",
+        "Storage Capacity: Built-in SD slot up to 512 GB",
+        "Weather Defense: IP67 standard rating"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2026/1/580059065/WK/UZ/HE/12083819/pt-nc340p1-wnm-d2-500x500.jpg"
+  },
+  {
+    "product_name": "2 MP RanginView Series Fixed Turret Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "RanginView Series Camera",
+    "model_name": "PT-NC323P7-WNMS/AW(D2)",
+    "features": [
+      "Round-the-Clock Color Imaging: Ensures color imaging at all times with advanced technology and an F1.0 aperture",
+      "Target Classification: Focus on human and vehicle classification based on advanced Al algorithms, supports in Motion detection event",
+      "Smart Dual Light: advanced technology with up to 30 m range",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth & storage",
+      "Audio Security: Built-in microphone for real-time audio security",
+      "On-Board Storage: Supports storage up to 512 GB (SD card slot)",
+      "Durable Design: Water and dust resistant (IP67)"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 2MP",
+        "Color Imaging: Constant round-the-clock full-color imaging",
+        "AI Analytics: Human and vehicle identification profiles in Motion Detection",
+        "Smart Dual Light Range: Up to 30 m",
+        "Compression Format: H.265",
+        "Audio Setup: Built-in microphone and strobe alert integration",
+        "Storage Capacity: Built-in SD slot up to 512 GB",
+        "Weather Defense: IP67 standard rating"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/9/548254114/QF/FN/LE/39004216/pt-nc361p1-wnms-d2-prama-500x500.png"
+  },
+  {
+    "product_name": "4 MP RanginView Series Fixed Turret Network Camera",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "RanginView Series Camera",
+    "model_name": "PT-NC343P7-WNMS/AW(D2)",
+    "features": [
+      "Round-the-Clock Color Imaging: Ensures color imaging at all times with advanced technology and an F1.0 aperture",
+      "Target Classification: Focus on human & vehicle classification based on advanced Al algorithms, supports in Motion detection event",
+      "Smart Dual Light: Advanced technology with up to 30 m range",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth & storage",
+      "Audio Security: Built-in microphone for real-time audio security",
+      "On-Board Storage: Supports storage up to 512 GB (SD card slot)",
+      "Durable Design: Water and dust resistant (IP67)"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 4MP",
+        "Color Imaging: Constant round-the-clock full-color imaging",
+        "AI Analytics: Human and vehicle identification profiles in Motion Detection",
+        "Smart Dual Light Range: Up to 30 m",
+        "Compression Format: H.265",
+        "Audio Setup: Built-in microphone and strobe alert integration",
+        "Storage Capacity: Built-in SD slot up to 512 GB",
+        "Weather Defense: IP67 standard rating"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/9/548254114/QF/FN/LE/39004216/pt-nc361p1-wnms-d2-prama-500x500.png"
+  },
+  {
+    "product_name": "6 MP Dual Light Fixed Bullet Network Camera (AiSense)",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "AiSense Series Camera",
+    "model_name": "PT-NC360P3-WNM(D2)",
+    "features": [
+      "High-Quality Imaging: 6MP resolution ensures superior image quality",
+      "Target Classification: Focus on human and vehicle classification based on advanced Al algorithms, supports in Motion detection, Line crossing, intrusion, region entrance, region exiting events",
+      "Smart Dual Light: Integrates IR and White lights, 3 supplemental lighting modes & up to 40 m range",
+      "Enhanced Audio Security: Built-in arrayed dual-microphone for real-time high-quality audio security",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Durable Design: Water and dust resistant (IP67) and vandal resistant (IK10) for robust protection"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 6MP",
+        "Advanced VCA Analytics: Human and vehicle target filtering for Motion, Line Crossing, Intrusion, Region Entrance, and Region Exiting",
+        "Smart Supplemental Light: Integrates IR and White Light across 3 modes up to 40 m",
+        "Audio Integration: Advanced built-in arrayed dual-microphone",
+        "Imaging Backlight: 120 dB True WDR",
+        "Compression: H.265",
+        "Protection Framework: IP67 dust/waterproof and IK10 vandal-resistant structure"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2026/5/604829361/FD/XY/XN/35929011/prama-pt-nc360p3-wnm-d2-bullet-camera-500x500.png"
+  },
+  {
+    "product_name": "6 MP Dual Light Fixed Dome Network Camera (AiSense)",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "AiSense Series Camera",
+    "model_name": "PT-NC361P3-WNAM(D2)",
+    "features": [
+      "High-Quality Imaging: 6MP resolution ensures superior image quality",
+      "Target Classification: Focus on human and vehicle classification based on advanced Al algorithms, supports in Motion detection, Line crossing, intrusion, region entrance, region exiting events",
+      "Smart Dual Light: Integrates IR and White lights, 3 supplemental lighting modes & up to 40 m range",
+      "Enhanced Audio Security: Built-in arrayed dual-microphone for real-time high-quality audio security",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Durable Design: Water and dust resistant (IP67) and vandal-resistant (IK10) for robust protection"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 6MP",
+        "Advanced VCA Analytics: Human and vehicle target filtering for Motion, Line Crossing, Intrusion, Region Entrance, and Region Exiting",
+        "Smart Supplemental Light: Integrates IR and White Light across 3 modes up to 40 m",
+        "Audio Integration: Advanced built-in arrayed dual-microphone",
+        "Imaging Backlight: 120 dB True WDR",
+        "Compression: H.265",
+        "Protection Framework: IP67 dust/waterproof and IK10 vandal-resistant structure"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/9/548256027/SY/DY/SY/39004216/pt-nc363p1-wnms-d2-prama-500x500.png"
+  },
+  {
+    "product_name": "8 MP Dual Light Varifocal Bullet Network Camera (AiSense)",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "AiSense Series Camera",
+    "model_name": "PT-NC386P3-WNRAM(D2)",
+    "features": [
+      "High-Quality Imaging: 8MP resolution ensures superior image quality",
+      "Target Classification: Focus on human and vehicle classification based on advanced Al algorithms, supports in Motion detection, Line crossing, intrusion, region entrance, region exiting events",
+      "Smart Dual Light: Advanced technology with long range up to 60 m range",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Audio Security: Built-in arrayed dual-microphone for real-time high-quality audio security",
+      "Motorized Focus Lens: Simplifies both installation and monitoring",
+      "Durable Design: Water and dust resistant (IP67) and vandal-resistant (IK10) for robust protection"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 8MP",
+        "Advanced VCA Analytics: Human and vehicle target sorting for Motion, Line Crossing, Intrusion, Region Entrance, and Region Exiting events",
+        "Smart Light Optimization: Long-range dual light illumination up to 60 m",
+        "Compression Stream: Efficient H.265",
+        "WDR Exposure: 120 dB true WDR",
+        "Audio Capture: System built-in arrayed dual-microphone",
+        "Lens Architecture: Motorized Varifocal focus lens adjustment",
+        "Protection Standards: Weatherproof IP67 and shockproof IK10 vandal verification"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/11/557872861/JY/KK/AH/255202718/prama-pt-nc127d3-wnram-d2-dual-light-varifocal-dome-network-camera-500x500.jpg"
+  },
+  {
+    "product_name": "6 MP Dual Light Varifocal Bullet Network Camera (AiSense)",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "AiSense Series Camera",
+    "model_name": "PT-NC366P3-WNRAM(D2)",
+    "features": [
+      "High-Quality Imaging: 6MP resolution ensures superior image quality",
+      "Target Classification: Focus on human and vehicle classification based on advanced Al algorithms, supports in Motion detection, Line crossing, intrusion, region entrance, region exiting events",
+      "Smart Dual Light: Advanced technology with long range up to 60 m range",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth & storage",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Audio Security: Built-in arrayed dual-microphone for real-time high-quality audio security",
+      "Motorized Focus Lens: Simplifies both installation and monitoring",
+      "Durable Design: Water and dust resistant (IP67) and vandal-resistant (IK10) for robust protection"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 6MP",
+        "Advanced VCA Analytics: Human and vehicle target sorting for Motion, Line Crossing, Intrusion, Region Entrance, and Region Exiting events",
+        "Smart Light Optimization: Long-range dual light illumination up to 60 m",
+        "Compression Stream: Efficient H.265",
+        "WDR Exposure: 120 dB true WDR",
+        "Audio Capture: System built-in arrayed dual-microphone",
+        "Lens Architecture: Motorized Varifocal focus lens adjustment",
+        "Protection Standards: Weatherproof IP67 and shockproof IK10 vandal verification"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/11/557872861/JY/KK/AH/255202718/prama-pt-nc127d3-wnram-d2-dual-light-varifocal-dome-network-camera-500x500.jpg"
+  },
+  {
+    "product_name": "6 MP Dual Light Varifocal Dome Network Camera (AiSense)",
+    "brand": "PRAMA",
+    "category": "Surveillance",
+    "sub_category": "AiSense Series Camera",
+    "model_name": "PT-NC367P3-WNRAM(D2)",
+    "features": [
+      "High-Quality Imaging: 6MP resolution ensures superior image quality",
+      "Target Classification: Focus on human and vehicle classification based on advanced Al algorithms, supports in Motion & Line crossing, intrusion, region entrance, region exiting events",
+      "Smart Dual Light: Advanced technology with long range up to 40 m range",
+      "Efficient Compression: Efficient H.265 compression technology saves bandwidth and storage",
+      "Superior Imaging in Backlight: Clear imaging against strong back light due to 120 dB true WDR technology",
+      "Audio Security: Built-in arrayed dual-microphone for real-time high-quality audio security",
+      "Motorized Focus Lens: Simplifies both installation and monitoring",
+      "Durable Design: Water and dust resistant (IP67) and vandal resistant (IK10) for robust protection"
+    ],
+    "specifications": {
+      "Highlights": [
+        "Resolution: 6MP",
+        "Advanced VCA Analytics: Human and vehicle classification targets across Motion, Line Crossing, Intrusion, Region Entrance, and Region Exiting",
+        "Smart Light Optimization: Dual light support up to 40 m range",
+        "Compression Stream: Efficient H.265",
+        "WDR Exposure: 120 dB true WDR",
+        "Audio Capture: System built-in arrayed dual-microphone",
+        "Lens Architecture: Motorized Focus lens",
+        "Protection Standards: Weatherproof IP67 and shockproof IK10 vandal validation"
+      ]
+    },
+    "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/11/557872861/JY/KK/AH/255202718/prama-pt-nc127d3-wnram-d2-dual-light-varifocal-dome-network-camera-500x500.jpg"
+  }
+]

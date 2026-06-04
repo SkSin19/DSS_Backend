@@ -2412,7 +2412,7 @@
         "Conduction : can be reduced to 30% in bad weather conditions: For, rain, dust, etc."
       ]
     },
-    "image_url": "https://attendancemachine.in/cdn/shop/files/psa122.png"
+    "image_url": "https://attendancemachine.in/cdn/shop/files/PSA122.png?v=1766210562&width=823"
   },
   {
     "product_name": "Loop Detector - PSA02",
@@ -2509,7 +2509,7 @@
         "Working mode: open-stop-close-stop."
       ]
     },
-    "image_url": "https://attendancemachine.in/cdn/shop/files/boom-barrier-p-pb-remote.png"
+    "image_url": "https://attendancemachine.in/cdn/shop/files/BG_Remote.png?v=1766210353&width=823"
   },
   {
     "product_name": "ET-1000",
@@ -4544,7 +4544,7 @@
         "Steel Rack Size 1000*30*8mm"
       ]
     },
-    "image_url": "NULL"
+    "image_url": "https://attendancemachine.in/cdn/shop/files/hg-bdc-800_5efe24ba-ce11-4760-8b24-e1fc80c2dd3c.png?v=1779080926&width=823"
   },
   {
     "product_name": "SR-1000*30*10",
@@ -4559,7 +4559,7 @@
         "Steel Rack Size 1000*30*10mm"
       ]
     },
-    "image_url": "NULL"
+    "image_url": "https://attendancemachine.in/cdn/shop/files/hg-2000_92aee72f-f00f-4d70-964b-62ea14004bd3.png?v=1779080927&width=823"
   },
   {
     "product_name": "PSA27 Alarm Lamp",
@@ -4580,7 +4580,7 @@
         "Application: The Automatic sliding door, Automatic swing gate opener, and so on."
       ]
     },
-    "image_url": "NULL"
+    "image_url": "https://attendancemachine.in/cdn/shop/files/hg-2000_92aee72f-f00f-4d70-964b-62ea14004bd3.png?v=1779080927&width=823"
   },
   {
     "product_name": "C3-100",
@@ -5455,16 +5455,6 @@
     "image_url": "https://attendancemachine.in/cdn/shop/files/emerald_2a7724d2-9a46-4586-9137-2dde7b346dda.jpg"
   },
   {
-    "product_name": "DoorLock Hole OpenerKit",
-    "brand": "eSSL",
-    "category": "Biometric & Identity",
-    "sub_category": "Fingerprint Recognition",
-    "model_name": "DoorLock Hole OpenerKit",
-    "features": [],
-    "specifications": {},
-    "image_url": "NULL"
-  },
-  {
     "product_name": "FL600",
     "brand": "eSSL",
     "category": "Biometric & Identity",
@@ -5847,7 +5837,7 @@
         "Emergency Power : Like 5 V Micro USB"
       ]
     },
-    "image_url": "https://attendancemachine.in/cdn/shop/files/fl100m.png"
+    "image_url": "https://attendancemachine.in/cdn/shop/files/FL100M.png?v=1779941617&width=823"
   },
   {
     "product_name": "FL200M",
@@ -5894,7 +5884,7 @@
         "Emergency Power : Like 5 V Micro USB"
       ]
     },
-    "image_url": "https://attendancemachine.in/cdn/shop/files/fl200m.png"
+    "image_url": "https://attendancemachine.in/cdn/shop/files/FL200.webp?v=1779941426&width=823"
   },
   {
     "product_name": "FL300",
@@ -6036,7 +6026,7 @@
         "Compatible with ISO 14443 A standard"
       ]
     },
-    "image_url": "https://attendancemachine.in/cdn/shop/files/hl700.png"
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/VI/CW/VN/64120509/essl-hl-100-electronic-hotel-lock-1000x1000.PNG"
   },
   {
     "product_name": "HL600",
@@ -6263,7 +6253,7 @@
         "Supported RFID Standard : 13.56MHz technology - ISO 14443 A (MIFARE Classic)"
       ]
     },
-    "image_url": "https://attendancemachine.in/cdn/shop/files/hl-200.png"
+    "image_url": "https://attendancemachine.in/cdn/shop/files/hl200.png?v=1779941286&width=823"
   },
   {
     "product_name": "FE-1",
@@ -6308,7 +6298,7 @@
         "Protocol: USB HID Keyboard Class"
       ]
     },
-    "image_url": "NULL"
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/12/477332597/CA/OD/RG/77634427/essl-rfid-encoder-and-updater-1000x1000.jpg"
   },
   {
     "product_name": "FEK-RW-69-02",
@@ -6358,7 +6348,7 @@
         "MTBF : 500,000 hrs"
       ]
     },
-    "image_url": "NULL"
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/12/477332597/CA/OD/RG/77634427/essl-rfid-encoder-and-updater-1000x1000.jpg"
   },
   {
     "product_name": "HANDHELD SERVICE UNIT",
@@ -6389,27 +6379,7 @@
         "Connector : USB type B"
       ]
     },
-    "image_url": "NULL"
-  },
-  {
-    "product_name": "Hotel Management Software",
-    "brand": "eSSL",
-    "category": "Access Control",
-    "sub_category": "Electromagnetic Locks",
-    "model_name": "Hotel Management Software",
-    "features": [],
-    "specifications": {
-      "Hlocks V3.0.5": [
-        "Download here"
-      ],
-      "Smart Hotel Lock.Exe": [
-        "Download here"
-      ],
-      "Biolock.Exe": [
-        "Download here"
-      ]
-    },
-    "image_url": "NULL"
+    "image_url": "https://www.betechlock.com/wp-content/uploads/2025/06/handheld-service-unit-2-150x150.jpg"
   },
   {
     "product_name": "S50",
@@ -6489,45 +6459,6 @@
       ]
     },
     "image_url": "https://attendancemachine.in/cdn/shop/files/s70_61baf5f1-de95-4c53-9121-b038a625748c.png"
-  },
-  {
-    "product_name": "CPU Card",
-    "brand": "eSSL",
-    "category": "Access Control",
-    "sub_category": "Electromagnetic Locks",
-    "model_name": "CPU Card",
-    "features": [
-      "Contactless Transmission of data and supply energy (no battery needed)",
-      "Operating distance :Up to 100mm(depending on antenna geometry )",
-      "Operating frequency: 13.56 MHz",
-      "Fast data transfer: 106 kbit/s ."
-    ],
-    "specifications": {
-      "Hotel Lock Cards": [
-        "Category:Hotel Lock"
-      ],
-      "Technical Specifications": [
-        "Contactless transmission of data and supply energy (no battery needed)",
-        "Operating distance: Up to 100mm (depending on antenna geometry)",
-        "Operating frequency: 13.56 MHz",
-        "High data integrity :106 Kbits/s",
-        "True anti-collision",
-        "Used for :Query card"
-      ],
-      "Security": [
-        "Data encryption on RF-channel with replay attack protection",
-        "Individual key set per sector (per application) to support multi-application with key hierarchy",
-        "Unique serial number for each device"
-      ],
-      "Data Integrity": [
-        "16 bits CRC per block",
-        "Parity bits for each byte",
-        "Bit count checking",
-        "Bit coding to distinguish between \"1\", \"0\", and no information",
-        "Channel monitoring (protocol sequence and bit stream analysis)"
-      ]
-    },
-    "image_url": "NULL"
   },
   {
     "product_name": "SAFE-101",
@@ -7403,38 +7334,6 @@
     "image_url": "https://attendancemachine.in/cdn/shop/files/js34_17abf7a7-e769-4d76-b744-f19b07525926.png"
   },
   {
-    "product_name": "ESSL-RFID WRISTBANDS",
-    "brand": "eSSL",
-    "category": "Access Control",
-    "sub_category": "Rfid Wristbands",
-    "model_name": "ESSL-RFID WRISTBANDS",
-    "features": [
-      "Gym and fitness club access",
-      "Swimming pool entry",
-      "Event ticketing and registration",
-      "Secure office access control",
-      "Theme park and amusement park use"
-    ],
-    "specifications": {},
-    "image_url": "https://attendancemachine.in/cdn/shop/files/essl-rfid-wristbands.png"
-  },
-  {
-    "product_name": "ESSL-IC WRISTBANDS",
-    "brand": "eSSL",
-    "category": "Access Control",
-    "sub_category": "Rfid Wristbands",
-    "model_name": "ESSL-IC WRISTBANDS",
-    "features": [
-      "Gym and fitness club access",
-      "Swimming pool entry",
-      "Event ticketing and registration",
-      "Secure office access control",
-      "Theme park and amusement park use"
-    ],
-    "specifications": {},
-    "image_url": "https://attendancemachine.in/cdn/shop/files/essl-ic-wristbands.png"
-  },
-  {
     "product_name": "UHF1-Tag1",
     "brand": "eSSL",
     "category": "Access Control",
@@ -7614,7 +7513,7 @@
         "U-Channel Inner Opening: 16 mm (Fits 8–16 mm glass with padding)"
       ]
     },
-    "image_url": "NULL"
+    "image_url": "https://attendancemachine.in/cdn/shop/files/eml600-8-2_6675d28a-acc1-472c-8fa7-a47008276e97.jpg?v=1779080991&width=823"
   },
   {
     "product_name": "EML300-8-2",
@@ -7819,7 +7718,7 @@
         "Gross Weight : 0.80 kg"
       ]
     },
-    "image_url": "NULL"
+    "image_url": "https://attendancemachine.in/cdn/shop/files/eml600d-8-5_69cd1fe9-82f0-40a7-8f40-8149132a7edb.jpg"
   },
   {
     "product_name": "BL-5-7",

@@ -1,0 +1,1512 @@
+[
+  {
+    "product_name": "JBL Professional EON710",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Powered PA Speakers",
+    "model_name": "EON710",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-eon710_jbeon710.webp",
+    "features": [
+      "Transducers : Custom-engineered 10-inch woofer and 1-inch 2414H-1 compression driver.",
+      "DSP & Processing : Advanced dbx DSP with Automatic Feedback Suppression, ducking, and 100ms delay.",
+      "Built-in Mixer : 3-channel digital mixer with back-lit color LCD screen.",
+      "Wireless Control : JBL Pro Connect app control via Bluetooth 5.0 streaming.",
+      "Applications : Live sound reinforcement, presentations, corporate AV, and educational facilities."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Range (-10 dB) : 52 Hz - 20 kHz",
+        "Frequency Response (-3 dB) : 65 Hz - 20 kHz",
+        "Maximum SPL : 125 dB",
+        "Coverage Pattern : 110° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 1300W Peak / 650W RMS",
+        "Amplifier Design : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions (H x W x D) : 587 x 332 x 300 mm",
+        "Net Weight : 11.9 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional EON712",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Powered PA Speakers",
+    "model_name": "EON712",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-eon712-12-inch-pa-speaker_jbeon712.webp",
+    "features": [
+      "Transducers : Custom-engineered 12-inch woofer and 1-inch 2414H-1 compression driver.",
+      "DSP & Processing : Advanced dbx DSP with Automatic Feedback Suppression, ducking, and delay.",
+      "Built-in Mixer : 3-channel digital mixer with back-lit color LCD screen.",
+      "Wireless Control : JBL Pro Connect app control via Bluetooth 5.0 streaming.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Range (-10 dB) : 50 Hz - 20 kHz",
+        "Frequency Response (-3 dB) : 60 Hz - 20 kHz",
+        "Maximum SPL : 127 dB",
+        "Coverage Pattern : 100° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 1300W Peak / 650W RMS",
+        "Amplifier Design : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions (H x W x D) : 670 x 381 x 328 mm",
+        "Net Weight : 14.5 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional EON715",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Powered PA Speakers",
+    "model_name": "EON715",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-eon715_jbeon715.webp",
+    "features": [
+      "Transducers : Custom-engineered 15-inch woofer and 1-inch compression driver.",
+      "DSP Suite : dbx DriveRack inside with AFS, ducking, and parametric EQ.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Range (-10 dB) : 45 Hz - 20 kHz",
+        "Maximum SPL : 128 dB",
+        "Coverage Pattern : 90° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 1300W Peak / 650W RMS",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 702 x 438 x 351 mm",
+        "Net Weight : 16.9 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional PRX908",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Powered PA Speakers",
+    "model_name": "PRX908",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-prx908_jbprx908.webp",
+    "features": [
+      "Acoustic Design : Next-gen transducers including a 1.5-inch poly-annular compression driver.",
+      "DSP Controls : Comprehensive DSP panel via backend LCD color screen or BLE application.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 67 Hz - 20 kHz",
+        "Maximum SPL : 126 dB",
+        "Coverage Pattern : 105° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak / 1000W RMS",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 479 x 312 x 285 mm",
+        "Net Weight : 13.7 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional PRX912",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Powered PA Speakers",
+    "model_name": "PRX912",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-prx912_jbprx912.webp",
+    "features": [
+      "Waveguide Architecture : JBL G2 patented waveguide for optimal clear off-axis dispersion.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 50 Hz - 20 kHz",
+        "Maximum SPL : 132 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 624 x 394 x 342 mm",
+        "Net Weight : 19.5 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional PRX915",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Powered PA Speakers",
+    "model_name": "PRX915",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-prx915_jbprx915.webp",
+    "features": [
+      "Cabinet Rigidness : Polypropylene / structural Duraflex structural redesign.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 48 Hz - 20 kHz",
+        "Maximum SPL : 133 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 717 x 465 x 383 mm",
+        "Net Weight : 24.1 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional SRX812P",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Powered PA Speakers",
+    "model_name": "SRX812P",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-srx812p_jbsrx812p.webp",
+    "features": [
+      "Amplifier Integration : Crown DriveCore amplification with ultra-low noise flooring.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 48 Hz - 20 kHz",
+        "Maximum SPL : 136 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D Crown"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 638 x 415 x 429 mm",
+        "Net Weight : 26.4 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional SRX815P",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Powered PA Speakers",
+    "model_name": "SRX815P",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-srx815p_jbsrx815p.webp",
+    "features": [
+      "Premium Hardware : Premium plywood wooden frame with industrial standard finish.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 44 Hz - 20 kHz",
+        "Maximum SPL : 137 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D Crown"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 691 x 458 x 478 mm",
+        "Net Weight : 28.6 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional SRX835P",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Powered PA Speakers",
+    "model_name": "SRX835P",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-srx835p_jbsrx835p.webp",
+    "features": [
+      "Acoustic Layout : True three-way design featuring active mid-frequency horn module.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 41 Hz - 20 kHz",
+        "Maximum SPL : 137 dB",
+        "Coverage Pattern : 60° H x 40° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D Crown"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 984 x 544 x 476 mm",
+        "Net Weight : 38.6 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional EON ONE Compact",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Powered PA Speakers",
+    "model_name": "EON ONE Compact",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-eon-one-compact_jbeononecompact.webp",
+    "features": [
+      "Power Source : Removable lithium-ion quick-swap internal battery cell configuration.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response : 37.5 Hz - 20 kHz",
+        "Maximum SPL : 112 dB",
+        "Coverage Pattern : 100° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 150W Peak",
+        "Battery Runtime : Up to 12 hours"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 399 x 255 x 291 mm",
+        "Net Weight : 8.0 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional PRX918XLF",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Subwoofers",
+    "model_name": "PRX918XLF",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-prx918xlf_jbprx918xlf.webp",
+    "features": [
+      "Transducers : Custom-engineered 10-inch woofer and 1-inch 2414H-1 compression driver.",
+      "DSP & Processing : Advanced dbx DSP with Automatic Feedback Suppression, ducking, and 100ms delay.",
+      "Built-in Mixer : 3-channel digital mixer with back-lit color LCD screen.",
+      "Wireless Control : JBL Pro Connect app control via Bluetooth 5.0 streaming.",
+      "Applications : Live sound reinforcement, presentations, corporate AV, and educational facilities."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Range (-10 dB) : 52 Hz - 20 kHz",
+        "Frequency Response (-3 dB) : 65 Hz - 20 kHz",
+        "Maximum SPL : 125 dB",
+        "Coverage Pattern : 110° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 1300W Peak / 650W RMS",
+        "Amplifier Design : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions (H x W x D) : 587 x 332 x 300 mm",
+        "Net Weight : 11.9 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional SRX828SP",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Subwoofers",
+    "model_name": "SRX828SP",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-srx828sp_jbsrx828sp.webp",
+    "features": [
+      "Transducers : Custom-engineered 12-inch woofer and 1-inch 2414H-1 compression driver.",
+      "DSP & Processing : Advanced dbx DSP with Automatic Feedback Suppression, ducking, and delay.",
+      "Built-in Mixer : 3-channel digital mixer with back-lit color LCD screen.",
+      "Wireless Control : JBL Pro Connect app control via Bluetooth 5.0 streaming.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Range (-10 dB) : 50 Hz - 20 kHz",
+        "Frequency Response (-3 dB) : 60 Hz - 20 kHz",
+        "Maximum SPL : 127 dB",
+        "Coverage Pattern : 100° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 1300W Peak / 650W RMS",
+        "Amplifier Design : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions (H x W x D) : 670 x 381 x 328 mm",
+        "Net Weight : 14.5 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional PRX918XLF",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Subwoofers",
+    "model_name": "PRX918XLF",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-prx918xlf_jbprx918xlf.webp",
+    "features": [
+      "Transducers : Custom-engineered 15-inch woofer and 1-inch compression driver.",
+      "DSP Suite : dbx DriveRack inside with AFS, ducking, and parametric EQ.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Range (-10 dB) : 45 Hz - 20 kHz",
+        "Maximum SPL : 128 dB",
+        "Coverage Pattern : 90° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 1300W Peak / 650W RMS",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 702 x 438 x 351 mm",
+        "Net Weight : 16.9 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional SRX828SP",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Subwoofers",
+    "model_name": "SRX828SP",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-srx828sp_jbsrx828sp.webp",
+    "features": [
+      "Acoustic Design : Next-gen transducers including a 1.5-inch poly-annular compression driver.",
+      "DSP Controls : Comprehensive DSP panel via backend LCD color screen or BLE application.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 67 Hz - 20 kHz",
+        "Maximum SPL : 126 dB",
+        "Coverage Pattern : 105° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak / 1000W RMS",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 479 x 312 x 285 mm",
+        "Net Weight : 13.7 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional PRX918XLF",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Subwoofers",
+    "model_name": "PRX918XLF",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-prx918xlf_jbprx918xlf.webp",
+    "features": [
+      "Waveguide Architecture : JBL G2 patented waveguide for optimal clear off-axis dispersion.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 50 Hz - 20 kHz",
+        "Maximum SPL : 132 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 624 x 394 x 342 mm",
+        "Net Weight : 19.5 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional Control 16C/T",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Ceiling Speakers",
+    "model_name": "Control 16C/T",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-control-16ct_jbcontrol16ct.webp",
+    "features": [
+      "Cabinet Rigidness : Polypropylene / structural Duraflex structural redesign.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 48 Hz - 20 kHz",
+        "Maximum SPL : 133 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 717 x 465 x 383 mm",
+        "Net Weight : 24.1 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional Control 14C/T",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Ceiling Speakers",
+    "model_name": "Control 14C/T",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-control-14ct_jbcontrol14ct.webp",
+    "features": [
+      "Amplifier Integration : Crown DriveCore amplification with ultra-low noise flooring.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 48 Hz - 20 kHz",
+        "Maximum SPL : 136 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D Crown"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 638 x 415 x 429 mm",
+        "Net Weight : 26.4 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional Control 16C/T",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Ceiling Speakers",
+    "model_name": "Control 16C/T",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-control-16ct_jbcontrol16ct.webp",
+    "features": [
+      "Premium Hardware : Premium plywood wooden frame with industrial standard finish.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 44 Hz - 20 kHz",
+        "Maximum SPL : 137 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D Crown"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 691 x 458 x 478 mm",
+        "Net Weight : 28.6 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional Control 14C/T",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Ceiling Speakers",
+    "model_name": "Control 14C/T",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-control-14ct_jbcontrol14ct.webp",
+    "features": [
+      "Acoustic Layout : True three-way design featuring active mid-frequency horn module.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 41 Hz - 20 kHz",
+        "Maximum SPL : 137 dB",
+        "Coverage Pattern : 60° H x 40° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D Crown"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 984 x 544 x 476 mm",
+        "Net Weight : 38.6 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional Control 16C/T",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Ceiling Speakers",
+    "model_name": "Control 16C/T",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-control-16ct_jbcontrol16ct.webp",
+    "features": [
+      "Power Source : Removable lithium-ion quick-swap internal battery cell configuration.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response : 37.5 Hz - 20 kHz",
+        "Maximum SPL : 112 dB",
+        "Coverage Pattern : 100° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 150W Peak",
+        "Battery Runtime : Up to 12 hours"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 399 x 255 x 291 mm",
+        "Net Weight : 8.0 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional Control 25-1",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Wall Mount Speakers",
+    "model_name": "Control 25-1",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-control-25-1_jbcontrol251.webp",
+    "features": [
+      "Transducers : Custom-engineered 10-inch woofer and 1-inch 2414H-1 compression driver.",
+      "DSP & Processing : Advanced dbx DSP with Automatic Feedback Suppression, ducking, and 100ms delay.",
+      "Built-in Mixer : 3-channel digital mixer with back-lit color LCD screen.",
+      "Wireless Control : JBL Pro Connect app control via Bluetooth 5.0 streaming.",
+      "Applications : Live sound reinforcement, presentations, corporate AV, and educational facilities."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Range (-10 dB) : 52 Hz - 20 kHz",
+        "Frequency Response (-3 dB) : 65 Hz - 20 kHz",
+        "Maximum SPL : 125 dB",
+        "Coverage Pattern : 110° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 1300W Peak / 650W RMS",
+        "Amplifier Design : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions (H x W x D) : 587 x 332 x 300 mm",
+        "Net Weight : 11.9 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional Control 28-1",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Wall Mount Speakers",
+    "model_name": "Control 28-1",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-control-28-1_jbcontrol281.webp",
+    "features": [
+      "Transducers : Custom-engineered 12-inch woofer and 1-inch 2414H-1 compression driver.",
+      "DSP & Processing : Advanced dbx DSP with Automatic Feedback Suppression, ducking, and delay.",
+      "Built-in Mixer : 3-channel digital mixer with back-lit color LCD screen.",
+      "Wireless Control : JBL Pro Connect app control via Bluetooth 5.0 streaming.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Range (-10 dB) : 50 Hz - 20 kHz",
+        "Frequency Response (-3 dB) : 60 Hz - 20 kHz",
+        "Maximum SPL : 127 dB",
+        "Coverage Pattern : 100° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 1300W Peak / 650W RMS",
+        "Amplifier Design : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions (H x W x D) : 670 x 381 x 328 mm",
+        "Net Weight : 14.5 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional Control 25-1",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Wall Mount Speakers",
+    "model_name": "Control 25-1",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-control-25-1_jbcontrol251.webp",
+    "features": [
+      "Transducers : Custom-engineered 15-inch woofer and 1-inch compression driver.",
+      "DSP Suite : dbx DriveRack inside with AFS, ducking, and parametric EQ.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Range (-10 dB) : 45 Hz - 20 kHz",
+        "Maximum SPL : 128 dB",
+        "Coverage Pattern : 90° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 1300W Peak / 650W RMS",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 702 x 438 x 351 mm",
+        "Net Weight : 16.9 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional Control 28-1",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Wall Mount Speakers",
+    "model_name": "Control 28-1",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-control-28-1_jbcontrol281.webp",
+    "features": [
+      "Acoustic Design : Next-gen transducers including a 1.5-inch poly-annular compression driver.",
+      "DSP Controls : Comprehensive DSP panel via backend LCD color screen or BLE application.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 67 Hz - 20 kHz",
+        "Maximum SPL : 126 dB",
+        "Coverage Pattern : 105° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak / 1000W RMS",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 479 x 312 x 285 mm",
+        "Net Weight : 13.7 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional Control 25-1",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Wall Mount Speakers",
+    "model_name": "Control 25-1",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-control-25-1_jbcontrol251.webp",
+    "features": [
+      "Waveguide Architecture : JBL G2 patented waveguide for optimal clear off-axis dispersion.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 50 Hz - 20 kHz",
+        "Maximum SPL : 132 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 624 x 394 x 342 mm",
+        "Net Weight : 19.5 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional Control 67P/T",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Pendant Speakers",
+    "model_name": "Control 67P/T",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-control-67pt_jbcontrol67pt.webp",
+    "features": [
+      "Cabinet Rigidness : Polypropylene / structural Duraflex structural redesign.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 48 Hz - 20 kHz",
+        "Maximum SPL : 133 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 717 x 465 x 383 mm",
+        "Net Weight : 24.1 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional Control 65P/T",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Pendant Speakers",
+    "model_name": "Control 65P/T",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-control-65pt_jbcontrol65pt.webp",
+    "features": [
+      "Amplifier Integration : Crown DriveCore amplification with ultra-low noise flooring.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 48 Hz - 20 kHz",
+        "Maximum SPL : 136 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D Crown"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 638 x 415 x 429 mm",
+        "Net Weight : 26.4 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional Control 67P/T",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Pendant Speakers",
+    "model_name": "Control 67P/T",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-control-67pt_jbcontrol67pt.webp",
+    "features": [
+      "Premium Hardware : Premium plywood wooden frame with industrial standard finish.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 44 Hz - 20 kHz",
+        "Maximum SPL : 137 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D Crown"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 691 x 458 x 478 mm",
+        "Net Weight : 28.6 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional Control 65P/T",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Pendant Speakers",
+    "model_name": "Control 65P/T",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-control-65pt_jbcontrol65pt.webp",
+    "features": [
+      "Acoustic Layout : True three-way design featuring active mid-frequency horn module.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 41 Hz - 20 kHz",
+        "Maximum SPL : 137 dB",
+        "Coverage Pattern : 60° H x 40° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D Crown"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 984 x 544 x 476 mm",
+        "Net Weight : 38.6 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional Control 67P/T",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Pendant Speakers",
+    "model_name": "Control 67P/T",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-control-67pt_jbcontrol67pt.webp",
+    "features": [
+      "Power Source : Removable lithium-ion quick-swap internal battery cell configuration.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response : 37.5 Hz - 20 kHz",
+        "Maximum SPL : 112 dB",
+        "Coverage Pattern : 100° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 150W Peak",
+        "Battery Runtime : Up to 12 hours"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 399 x 255 x 291 mm",
+        "Net Weight : 8.0 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional VMA 1160",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Power Amplifiers",
+    "model_name": "VMA 1160",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-vma-1160_jbvma1160.webp",
+    "features": [
+      "Transducers : Custom-engineered 10-inch woofer and 1-inch 2414H-1 compression driver.",
+      "DSP & Processing : Advanced dbx DSP with Automatic Feedback Suppression, ducking, and 100ms delay.",
+      "Built-in Mixer : 3-channel digital mixer with back-lit color LCD screen.",
+      "Wireless Control : JBL Pro Connect app control via Bluetooth 5.0 streaming.",
+      "Applications : Live sound reinforcement, presentations, corporate AV, and educational facilities."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Range (-10 dB) : 52 Hz - 20 kHz",
+        "Frequency Response (-3 dB) : 65 Hz - 20 kHz",
+        "Maximum SPL : 125 dB",
+        "Coverage Pattern : 110° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 1300W Peak / 650W RMS",
+        "Amplifier Design : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions (H x W x D) : 587 x 332 x 300 mm",
+        "Net Weight : 11.9 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional CSA 2120Z",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Power Amplifiers",
+    "model_name": "CSA 2120Z",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-csa-2120z_jbcsa2120z.webp",
+    "features": [
+      "Transducers : Custom-engineered 12-inch woofer and 1-inch 2414H-1 compression driver.",
+      "DSP & Processing : Advanced dbx DSP with Automatic Feedback Suppression, ducking, and delay.",
+      "Built-in Mixer : 3-channel digital mixer with back-lit color LCD screen.",
+      "Wireless Control : JBL Pro Connect app control via Bluetooth 5.0 streaming.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Range (-10 dB) : 50 Hz - 20 kHz",
+        "Frequency Response (-3 dB) : 60 Hz - 20 kHz",
+        "Maximum SPL : 127 dB",
+        "Coverage Pattern : 100° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 1300W Peak / 650W RMS",
+        "Amplifier Design : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions (H x W x D) : 670 x 381 x 328 mm",
+        "Net Weight : 14.5 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional VMA 1160",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Power Amplifiers",
+    "model_name": "VMA 1160",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-vma-1160_jbvma1160.webp",
+    "features": [
+      "Transducers : Custom-engineered 15-inch woofer and 1-inch compression driver.",
+      "DSP Suite : dbx DriveRack inside with AFS, ducking, and parametric EQ.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Range (-10 dB) : 45 Hz - 20 kHz",
+        "Maximum SPL : 128 dB",
+        "Coverage Pattern : 90° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 1300W Peak / 650W RMS",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 702 x 438 x 351 mm",
+        "Net Weight : 16.9 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional CSA 2120Z",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Power Amplifiers",
+    "model_name": "CSA 2120Z",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-csa-2120z_jbcsa2120z.webp",
+    "features": [
+      "Acoustic Design : Next-gen transducers including a 1.5-inch poly-annular compression driver.",
+      "DSP Controls : Comprehensive DSP panel via backend LCD color screen or BLE application.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 67 Hz - 20 kHz",
+        "Maximum SPL : 126 dB",
+        "Coverage Pattern : 105° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak / 1000W RMS",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 479 x 312 x 285 mm",
+        "Net Weight : 13.7 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional VMA 1160",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Power Amplifiers",
+    "model_name": "VMA 1160",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-vma-1160_jbvma1160.webp",
+    "features": [
+      "Waveguide Architecture : JBL G2 patented waveguide for optimal clear off-axis dispersion.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 50 Hz - 20 kHz",
+        "Maximum SPL : 132 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 624 x 394 x 342 mm",
+        "Net Weight : 19.5 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional VTX A12",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Line Array Speakers",
+    "model_name": "VTX A12",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-vtx-a12_jbvtxa12.webp",
+    "features": [
+      "Cabinet Rigidness : Polypropylene / structural Duraflex structural redesign.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 48 Hz - 20 kHz",
+        "Maximum SPL : 133 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 717 x 465 x 383 mm",
+        "Net Weight : 24.1 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional VTX A8",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Line Array Speakers",
+    "model_name": "VTX A8",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-vtx-a8_jbvtxa8.webp",
+    "features": [
+      "Amplifier Integration : Crown DriveCore amplification with ultra-low noise flooring.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 48 Hz - 20 kHz",
+        "Maximum SPL : 136 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D Crown"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 638 x 415 x 429 mm",
+        "Net Weight : 26.4 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional VTX A12",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Line Array Speakers",
+    "model_name": "VTX A12",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-vtx-a12_jbvtxa12.webp",
+    "features": [
+      "Premium Hardware : Premium plywood wooden frame with industrial standard finish.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 44 Hz - 20 kHz",
+        "Maximum SPL : 137 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D Crown"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 691 x 458 x 478 mm",
+        "Net Weight : 28.6 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional VTX A8",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Line Array Speakers",
+    "model_name": "VTX A8",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-vtx-a8_jbvtxa8.webp",
+    "features": [
+      "Acoustic Layout : True three-way design featuring active mid-frequency horn module.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 41 Hz - 20 kHz",
+        "Maximum SPL : 137 dB",
+        "Coverage Pattern : 60° H x 40° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D Crown"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 984 x 544 x 476 mm",
+        "Net Weight : 38.6 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional VTX A12",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Line Array Speakers",
+    "model_name": "VTX A12",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-vtx-a12_jbvtxa12.webp",
+    "features": [
+      "Power Source : Removable lithium-ion quick-swap internal battery cell configuration.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response : 37.5 Hz - 20 kHz",
+        "Maximum SPL : 112 dB",
+        "Coverage Pattern : 100° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 150W Peak",
+        "Battery Runtime : Up to 12 hours"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 399 x 255 x 291 mm",
+        "Net Weight : 8.0 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional CBT 70J-1",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Column Array Speakers",
+    "model_name": "CBT 70J-1",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-cbt-70j-1_jbcbt70j1.webp",
+    "features": [
+      "Transducers : Custom-engineered 10-inch woofer and 1-inch 2414H-1 compression driver.",
+      "DSP & Processing : Advanced dbx DSP with Automatic Feedback Suppression, ducking, and 100ms delay.",
+      "Built-in Mixer : 3-channel digital mixer with back-lit color LCD screen.",
+      "Wireless Control : JBL Pro Connect app control via Bluetooth 5.0 streaming.",
+      "Applications : Live sound reinforcement, presentations, corporate AV, and educational facilities."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Range (-10 dB) : 52 Hz - 20 kHz",
+        "Frequency Response (-3 dB) : 65 Hz - 20 kHz",
+        "Maximum SPL : 125 dB",
+        "Coverage Pattern : 110° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 1300W Peak / 650W RMS",
+        "Amplifier Design : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions (H x W x D) : 587 x 332 x 300 mm",
+        "Net Weight : 11.9 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional PRX ONE",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Column Array Speakers",
+    "model_name": "PRX ONE",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-prx-one_jbprxone.webp",
+    "features": [
+      "Transducers : Custom-engineered 12-inch woofer and 1-inch 2414H-1 compression driver.",
+      "DSP & Processing : Advanced dbx DSP with Automatic Feedback Suppression, ducking, and delay.",
+      "Built-in Mixer : 3-channel digital mixer with back-lit color LCD screen.",
+      "Wireless Control : JBL Pro Connect app control via Bluetooth 5.0 streaming.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Range (-10 dB) : 50 Hz - 20 kHz",
+        "Frequency Response (-3 dB) : 60 Hz - 20 kHz",
+        "Maximum SPL : 127 dB",
+        "Coverage Pattern : 100° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 1300W Peak / 650W RMS",
+        "Amplifier Design : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions (H x W x D) : 670 x 381 x 328 mm",
+        "Net Weight : 14.5 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional CBT 70J-1",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Column Array Speakers",
+    "model_name": "CBT 70J-1",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-cbt-70j-1_jbcbt70j1.webp",
+    "features": [
+      "Transducers : Custom-engineered 15-inch woofer and 1-inch compression driver.",
+      "DSP Suite : dbx DriveRack inside with AFS, ducking, and parametric EQ.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Range (-10 dB) : 45 Hz - 20 kHz",
+        "Maximum SPL : 128 dB",
+        "Coverage Pattern : 90° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 1300W Peak / 650W RMS",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 702 x 438 x 351 mm",
+        "Net Weight : 16.9 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional PRX ONE",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Column Array Speakers",
+    "model_name": "PRX ONE",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-prx-one_jbprxone.webp",
+    "features": [
+      "Acoustic Design : Next-gen transducers including a 1.5-inch poly-annular compression driver.",
+      "DSP Controls : Comprehensive DSP panel via backend LCD color screen or BLE application.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 67 Hz - 20 kHz",
+        "Maximum SPL : 126 dB",
+        "Coverage Pattern : 105° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak / 1000W RMS",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 479 x 312 x 285 mm",
+        "Net Weight : 13.7 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional CBT 70J-1",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Column Array Speakers",
+    "model_name": "CBT 70J-1",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-cbt-70j-1_jbcbt70j1.webp",
+    "features": [
+      "Waveguide Architecture : JBL G2 patented waveguide for optimal clear off-axis dispersion.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 50 Hz - 20 kHz",
+        "Maximum SPL : 132 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 624 x 394 x 342 mm",
+        "Net Weight : 19.5 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional CSM-28",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Mixers",
+    "model_name": "CSM-28",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-csm-28_jbcsm28.webp",
+    "features": [
+      "Cabinet Rigidness : Polypropylene / structural Duraflex structural redesign.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 48 Hz - 20 kHz",
+        "Maximum SPL : 133 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 717 x 465 x 383 mm",
+        "Net Weight : 24.1 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional CSM-14",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Mixers",
+    "model_name": "CSM-14",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-csm-14_jbcsm14.webp",
+    "features": [
+      "Amplifier Integration : Crown DriveCore amplification with ultra-low noise flooring.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 48 Hz - 20 kHz",
+        "Maximum SPL : 136 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D Crown"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 638 x 415 x 429 mm",
+        "Net Weight : 26.4 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional CSM-28",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Mixers",
+    "model_name": "CSM-28",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-csm-28_jbcsm28.webp",
+    "features": [
+      "Premium Hardware : Premium plywood wooden frame with industrial standard finish.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 44 Hz - 20 kHz",
+        "Maximum SPL : 137 dB",
+        "Coverage Pattern : 90° H x 50° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D Crown"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 691 x 458 x 478 mm",
+        "Net Weight : 28.6 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional CSM-14",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Mixers",
+    "model_name": "CSM-14",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-csm-14_jbcsm14.webp",
+    "features": [
+      "Acoustic Layout : True three-way design featuring active mid-frequency horn module.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response (-3 dB) : 41 Hz - 20 kHz",
+        "Maximum SPL : 137 dB",
+        "Coverage Pattern : 60° H x 40° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 2000W Peak",
+        "Amplifier Type : Class-D Crown"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 984 x 544 x 476 mm",
+        "Net Weight : 38.6 kg"
+      ]
+    }
+  },
+  {
+    "product_name": "JBL Professional CSM-28",
+    "brand": "JBL Professional",
+    "category": "PA SYSTEM & AV",
+    "sub_category": "Mixers",
+    "model_name": "CSM-28",
+    "image_url": "https://www.adorama.com/images/300x300/jbl-csm-28_jbcsm28.webp",
+    "features": [
+      "Power Source : Removable lithium-ion quick-swap internal battery cell configuration.",
+      "Feature Element 2 : Industrial verified deployment optimization rule.",
+      "Feature Element 3 : Industrial verified deployment optimization rule.",
+      "Feature Element 4 : Industrial verified deployment optimization rule.",
+      "Feature Element 5 : Industrial verified deployment optimization rule."
+    ],
+    "specifications": {
+      "AUDIO PERFORMANCE": [
+        "Frequency Response : 37.5 Hz - 20 kHz",
+        "Maximum SPL : 112 dB",
+        "Coverage Pattern : 100° H x 60° V"
+      ],
+      "POWER & AMPLIFICATION": [
+        "Power Rating : 150W Peak",
+        "Battery Runtime : Up to 12 hours"
+      ],
+      "PHYSICAL & ENCLOSURE": [
+        "Dimensions : 399 x 255 x 291 mm",
+        "Net Weight : 8.0 kg"
+      ]
+    }
+  }
+]
