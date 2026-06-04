@@ -186,4 +186,31 @@ const FetchProductBySlug = async (req, res) => {
     }
 };
 
-export { FetchProducts, FetchProductById, FetchProductBySlug };
+
+const ProductCategories = async (req, res) => {
+  try {
+    if (!ensureDatabaseReady(res)) {
+      return;
+    }
+
+    const categories = await ProductModel.distinct("category");
+
+    return res.status(200).json({
+      success: true,
+      message: "Product categories fetched successfully",
+      categories: categories
+        .filter(Boolean)
+        .sort((a, b) => a.localeCompare(b)),
+    });
+  } catch (error) {
+    console.error("FetchProductCategories Error:", error);
+
+    return res.status(500).json({
+      success: false,
+      message: "Failed to fetch product categories",
+      error: error.message,
+    });
+  }
+};
+
+export { FetchProducts, FetchProductById, FetchProductBySlug, ProductCategories };
