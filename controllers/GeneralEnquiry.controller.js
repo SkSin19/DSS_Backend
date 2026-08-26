@@ -64,9 +64,6 @@ const SubmitGeneralEnquiry = async (req, res) => {
     if (!/^\d{10}$/.test(phoneNumber))
       return res.status(400).json({ message: "Phone number must contain exactly 10 digits." });
 
-    if (message.length < 10)
-      return res.status(400).json({ message: "Please add a short message before submitting." });
-
     if (!turnstileToken)
       return res.status(400).json({ message: "Bot verification token is required." });
 
