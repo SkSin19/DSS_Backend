@@ -1950,7 +1950,7 @@
   {
     "product_name": "BB-Radar",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "BB-Radar",
     "features": [
@@ -1980,7 +1980,7 @@
   {
     "product_name": "BG-DC-101",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "BG-DC-101",
     "features": [
@@ -2015,7 +2015,7 @@
   {
     "product_name": "BG180-BDC",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "BG180-BDC",
     "features": [
@@ -2040,7 +2040,7 @@
   {
     "product_name": "BG100 TI",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "BG100 TI",
     "features": [
@@ -2076,7 +2076,7 @@
   {
     "product_name": "BG100 TII",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "BG100 TII",
     "features": [
@@ -2112,7 +2112,7 @@
   {
     "product_name": "BG-100(6M) GREY",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "BG-100(6M) GREY",
     "features": [
@@ -2152,7 +2152,7 @@
   {
     "product_name": "BG-108 (8M)",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "BG-108 (8M)",
     "features": [
@@ -2191,7 +2191,7 @@
   {
     "product_name": "BG-S-105 (2M)",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "BG-S-105 (2M)",
     "features": [
@@ -2229,7 +2229,7 @@
   {
     "product_name": "BG-SC-300",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "BG-SC-300",
     "features": [
@@ -2266,7 +2266,7 @@
   {
     "product_name": "BGL-100",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "BGL-100",
     "features": [
@@ -2301,7 +2301,7 @@
   {
     "product_name": "BG-CM-300",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "BG-CM-300",
     "features": [
@@ -2329,7 +2329,7 @@
   {
     "product_name": "Switch SW01",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "Switch SW01",
     "features": [
@@ -2353,7 +2353,7 @@
   {
     "product_name": "Photo Cell PSA26",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "Photo Cell PSA26",
     "features": [
@@ -2383,7 +2383,7 @@
   {
     "product_name": "Wireless Photo Cell PSA122",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "Wireless Photo Cell PSA122",
     "features": [
@@ -2417,7 +2417,7 @@
   {
     "product_name": "Loop Detector - PSA02",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "Loop Detector - PSA02",
     "features": [
@@ -2449,7 +2449,7 @@
   {
     "product_name": "Loop Detector - PSA02-2",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "Loop Detector - PSA02-2",
     "features": [
@@ -2484,7 +2484,7 @@
   {
     "product_name": "Boom Barrier P-PB-Remote",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "Boom Barrier P-PB-Remote",
     "features": [
@@ -3118,7 +3118,7 @@
   {
     "product_name": "FB-E-1000",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "FB-E-1000",
     "features": [
@@ -3153,7 +3153,7 @@
   {
     "product_name": "FB-E-1200",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "FB-E-1200",
     "features": [
@@ -3187,7 +3187,7 @@
   {
     "product_name": "FB-E-2000 Series",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "FB-E-2000 Series",
     "features": [
@@ -3227,7 +3227,7 @@
   {
     "product_name": "FB-E-2200",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "FB-E-2200",
     "features": [
@@ -3267,7 +3267,7 @@
   {
     "product_name": "FB-E-2216",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "FB-E-2216",
     "features": [
@@ -3302,7 +3302,7 @@
   {
     "product_name": "FB-EF-2213",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "FB-EF-2213",
     "features": [
@@ -3337,7 +3337,7 @@
   {
     "product_name": "FB-Y-1000",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "FB-Y-1000",
     "features": [
@@ -3372,7 +3372,7 @@
   {
     "product_name": "FB-Y-1200",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "FB-Y-1200",
     "features": [
@@ -3407,7 +3407,7 @@
   {
     "product_name": "SB-E315",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "SB-E315",
     "features": [
@@ -3437,7 +3437,7 @@
   {
     "product_name": "SB-ES-3216",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "SB-ES-3216",
     "features": [
@@ -3478,7 +3478,7 @@
   {
     "product_name": "SB-ES-3216-2",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "SB-ES-3216-2",
     "features": [
@@ -3518,7 +3518,7 @@
   {
     "product_name": "SB-ES-3218",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "SB-ES-3218",
     "features": [
@@ -3558,7 +3558,7 @@
   {
     "product_name": "SB-TL-129",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "SB-TL-129",
     "features": [
@@ -3587,7 +3587,7 @@
   {
     "product_name": "SB-ES-3012",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "SB-ES-3012",
     "features": [
@@ -3622,7 +3622,7 @@
   {
     "product_name": "SB-ES-3012-2",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "SB-ES-3012-2",
     "features": [
@@ -3657,7 +3657,7 @@
   {
     "product_name": "SB-SPL-310",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Boom Barrier",
     "model_name": "SB-SPL-310",
     "features": [
@@ -4192,7 +4192,7 @@
   {
     "product_name": "GO-I-28",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Swing Gate Openers",
     "model_name": "GO-I-28",
     "features": [
@@ -4221,7 +4221,7 @@
   {
     "product_name": "GO-O-29",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Swing Gate Openers",
     "model_name": "GO-O-29",
     "features": [
@@ -4249,7 +4249,7 @@
   {
     "product_name": "GO-O-19",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Swing Gate Openers",
     "model_name": "GO-O-19",
     "features": [
@@ -4278,7 +4278,7 @@
   {
     "product_name": "GO-O-03",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Swing Gate Openers",
     "model_name": "GO-O-03",
     "features": [
@@ -4308,7 +4308,7 @@
   {
     "product_name": "SH-GT3.50-ZM",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Shutter & Garage Door Opener",
     "model_name": "SH-GT3.50-ZM",
     "features": [
@@ -4338,7 +4338,7 @@
   {
     "product_name": "SH-GT5.75-ZM",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Shutter & Garage Door Opener",
     "model_name": "SH-GT5.75-ZM",
     "features": [
@@ -4369,7 +4369,7 @@
   {
     "product_name": "SH-GT16DC",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Shutter & Garage Door Opener",
     "model_name": "SH-GT16DC",
     "features": [
@@ -4401,7 +4401,7 @@
   {
     "product_name": "SH-JMT40",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Shutter & Garage Door Opener",
     "model_name": "SH-JMT40",
     "features": [
@@ -4432,7 +4432,7 @@
   {
     "product_name": "HG-BDC-600",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Sliding Gate Units",
     "model_name": "HG-BDC-600",
     "features": [
@@ -4461,7 +4461,7 @@
   {
     "product_name": "HG-BDC-800",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Sliding Gate Units",
     "model_name": "HG-BDC-800",
     "features": [
@@ -4490,7 +4490,7 @@
   {
     "product_name": "eSSL-HG-1500",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Sliding Gate Units",
     "model_name": "eSSL-HG-1500",
     "features": [
@@ -4511,7 +4511,7 @@
   {
     "product_name": "HG-2000",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Sliding Gate Units",
     "model_name": "HG-2000",
     "features": [
@@ -4534,7 +4534,7 @@
   {
     "product_name": "SR-1000*30*8",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Sliding Gate Accessories",
     "model_name": "SR-1000*30*8",
     "features": [],
@@ -4549,7 +4549,7 @@
   {
     "product_name": "SR-1000*30*10",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Sliding Gate Accessories",
     "model_name": "SR-1000*30*10",
     "features": [],
@@ -4564,7 +4564,7 @@
   {
     "product_name": "PSA27 Alarm Lamp",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Sliding Gate Accessories",
     "model_name": "PSA27 Alarm Lamp",
     "features": [
@@ -5181,7 +5181,7 @@
   {
     "product_name": "HB-426",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Hydraulic Bollards",
     "model_name": "HB-426",
     "features": [
@@ -5224,7 +5224,7 @@
   {
     "product_name": "RB-219",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Removable Bollards",
     "model_name": "RB-219",
     "features": [
@@ -5252,7 +5252,7 @@
   {
     "product_name": "TK-300",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Traffic Bollards",
     "model_name": "TK-300",
     "features": [
@@ -5290,7 +5290,7 @@
   {
     "product_name": "TK-400",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Traffic Bollards",
     "model_name": "TK-400",
     "features": [
@@ -5328,7 +5328,7 @@
   {
     "product_name": "TK-600",
     "brand": "eSSL",
-    "category": "Access Control",
+    "category": "Gate Automation",
     "sub_category": "Traffic Bollards",
     "model_name": "TK-600",
     "features": [

@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
 import GeneralEnquiryModel from "../models/GeneralEnquiry.model.js";
+import { appendEnquiryToSheetSafe } from "../lib/googleSheets.js";
 
 const ensureDatabaseReady = (res) => {
   if (mongoose.connection.readyState !== 1) {
@@ -88,6 +89,8 @@ const SubmitGeneralEnquiry = async (req, res) => {
       userAgent: req.get("user-agent") || "",
       ipAddress: req.ip || "",
     });
+
+    appendEnquiryToSheetSafe(enquiry.toObject ? enquiry.toObject() : enquiry, "general");
 
     return res.status(200).json({
       message: "Enquiry submitted successfully.",

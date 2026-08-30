@@ -2,6 +2,7 @@ import crypto from "crypto";
 import mongoose from "mongoose";
 import ProductModel from "../models/Product.model.js";
 import EnquiryModel from "../models/Enquiry.model.js";
+import { appendEnquiryToSheetSafe } from "../lib/googleSheets.js";
 
 const ensureDatabaseReady = (res) => {
   if (mongoose.connection.readyState !== 1) {
@@ -90,6 +91,8 @@ const SubmitEnquiry = async (req, res) => {
       userAgent: req.get("user-agent") || "",
       ipAddress: req.ip || "",
     });
+
+    appendEnquiryToSheetSafe(enquiry.toObject ? enquiry.toObject() : enquiry, "product");
 
     return res.status(200).json({
       message: "Enquiry submitted successfully.",
