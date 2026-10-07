@@ -45,6 +45,7 @@ const SubmitEnquiry = async (req, res) => {
     if (!ensureDatabaseReady(res)) return;
 
     const productId        = String(req.body.productId || "").trim();
+    const name             = normalizeName(req.body.name);
     const email            = normalizeEmail(req.body.email);
     const phoneCountryCode = normalizeCountryCode(req.body.phoneCountryCode);
     const phoneNumber      = normalizePhoneNumber(req.body.phoneNumber);
@@ -54,8 +55,11 @@ const SubmitEnquiry = async (req, res) => {
     if (!mongoose.Types.ObjectId.isValid(productId))
       return res.status(400).json({ message: "Valid product details are required." });
 
-    if (!email || !/^\S+@\S+\.\S+$/.test(email))
-      return res.status(400).json({ message: "Enter a valid email address." });
+    // Email is optional: store it only when a valid one is supplied.
+    const safeEmail = email && /^\S+@\S+\.\S+$/.test(email) ? email : "";
+
+    if (!name || name.length < 2)
+      return res.status(400).json({ message: "Enter your name." });
 
     if (!phoneCountryCode || !/^\+\d{1,4}$/.test(phoneCountryCode))
       return res.status(400).json({ message: "Enter a valid country code." });
@@ -79,7 +83,8 @@ const SubmitEnquiry = async (req, res) => {
       productSlug: product.slug,
       productModel: product.model,
       company: product.company,
-      email,
+      name,
+      email: safeEmail,
       phoneCountryCode,
       phoneNumber,
       phoneE164: buildPhoneE164(phoneCountryCode, phoneNumber),
@@ -102,6 +107,7 @@ const SubmitEnquiry = async (req, res) => {
         productSlug: enquiry.productSlug,
         productModel: enquiry.productModel,
         productId: enquiry.productId,
+        name: enquiry.name,
         email: enquiry.email,
         phoneCountryCode: enquiry.phoneCountryCode,
         phoneNumber: enquiry.phoneNumber,

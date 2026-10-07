@@ -56,8 +56,11 @@ const SubmitGeneralEnquiry = async (req, res) => {
     const message         = normalizeMessage(req.body.message);
     const turnstileToken  = String(req.body.turnstileToken || "").trim();
 
-    if (!email || !/^\S+@\S+\.\S+$/.test(email))
-      return res.status(400).json({ message: "Enter a valid email address." });
+    // Email is optional: store it only when a valid one is supplied.
+    const safeEmail = email && /^\S+@\S+\.\S+$/.test(email) ? email : "";
+
+    if (!name || name.length < 2)
+      return res.status(400).json({ message: "Enter your name." });
 
     if (!phoneCountryCode || !/^\+\d{1,4}$/.test(phoneCountryCode))
       return res.status(400).json({ message: "Enter a valid country code." });
@@ -75,7 +78,7 @@ const SubmitGeneralEnquiry = async (req, res) => {
     const enquiry = await GeneralEnquiryModel.create({
       name,
       company,
-      email,
+      email: safeEmail,
       phoneCountryCode,
       phoneNumber,
       phoneE164: buildPhoneE164(phoneCountryCode, phoneNumber),

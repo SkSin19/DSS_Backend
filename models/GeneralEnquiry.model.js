@@ -4,7 +4,7 @@ const GeneralEnquirySchema = new mongoose.Schema(
   {
     name:             { type: String, default: "", trim: true },
     company:          { type: String, default: "", trim: true },
-    email:            { type: String, required: true, trim: true, lowercase: true, index: true },
+    email:            { type: String, default: "", trim: true, lowercase: true, index: true },
     phoneCountryCode: { type: String, default: "", trim: true },
     phoneNumber:      { type: String, default: "", trim: true },
     phoneE164:        { type: String, default: "", trim: true, index: true },
