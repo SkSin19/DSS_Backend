@@ -56,4 +56,4 @@ EPABX / IPABX telephone systems, FTTH fibre networks, Cat6 structured cabling, r
 CRPF, BHEL, HCL, Tata Power, Dabur, UFLEX, Orient Electric, United Bank of India, 92.7 BIG FM, News Nation, Vidyamandir Classes, IMT, Café Coffee Day, New Delhi YMCA, and residential projects including ACE City, ACE Parkway, ACE Divino, Godrej Palm Retreat and NRI City.
 
 ## Useful pages on the website
-Products catalogue: /products. Solutions and services: /solutions. Enquiry / free site survey / contact: /enquiry. Security guides (blog): /blogs. About us: /about.
+Products catalogue: /products. CCTV cost calculator (estimate cameras, storage and price): /tools/cctv-cost-calculator. Compare products side by side: /tools/compare-products. Solutions and services: /solutions. Enquiry / free site survey / contact: /enquiry. Security guides (blog): /blogs. About us: /about.
