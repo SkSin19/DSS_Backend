@@ -30,3 +30,24 @@ Required values:
 npm install
 npm start
 ```
+
+## AI Support Assistant
+
+The website's chat assistant (`POST /api/v1/chat`) answers from the site's own
+data (retrieval-augmented generation) using Gemini 3.1 Flash-Lite.
+
+- `GEMINI_API_KEY`: key from https://aistudio.google.com/apikey (use a billing-enabled project for production)
+- `CHAT_DAILY_LIMIT`: max replies per day across all visitors (default 2000), a cost guard
+- Optional: `GEMINI_CHAT_MODEL`, `GEMINI_EMBED_MODEL`, `BLOG_SOURCE_PATH`
+
+Build or refresh the knowledge base after changing products, blog posts or
+`data/knowledge.md`:
+
+```bash
+npm run ingest:knowledge
+```
+
+This embeds every product, blog section and `data/knowledge.md` section into the
+`knowledgechunks` collection (only changed chunks are re-embedded) and creates an
+Atlas Vector Search index. Without Atlas Vector Search the chat falls back to an
+in-memory similarity search, which is fine at this size.

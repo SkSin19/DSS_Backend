@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js",
     "seed:products": "node scripts/seedProducts.js",
-    "seed:essl": "node scripts/seedFromJson.js"
+    "seed:essl": "node scripts/seedFromJson.js",
+    "ingest:knowledge": "node --no-warnings scripts/ingestKnowledge.js"
   },
   "repository": {
     "type": "git",
