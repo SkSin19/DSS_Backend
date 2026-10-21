@@ -28,6 +28,9 @@ const normalizeQueryValues = (value) => {
     return [];
 };
 
+// User text is matched literally, never as a regex pattern.
+const escapeRegex = (value) => String(value).slice(0, 100).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
 const buildProductFilter = (query) => {
     const filter = {};
 
@@ -68,15 +71,15 @@ const buildProductFilter = (query) => {
     }
 
     if (query.name) {
-        filter.name = new RegExp(query.name, "i");
+        filter.name = new RegExp(escapeRegex(query.name), "i");
     }
 
     if (query.model) {
-        filter.model = new RegExp(query.model, "i");
+        filter.model = new RegExp(escapeRegex(query.model), "i");
     }
 
     if (query.search) {
-        const searchRegex = new RegExp(query.search, "i");
+        const searchRegex = new RegExp(escapeRegex(query.search), "i");
         filter.$or = [
             { name: searchRegex },
             { model: searchRegex },
