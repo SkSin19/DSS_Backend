@@ -95,7 +95,7 @@ const blogChunks = async () => {
       chunks.push({
         key: `blog:${post.slug}:${slugify(section.heading)}`,
         source: "blog",
-        title: `${post.title} — ${section.heading}`,
+        title: `${post.title} - ${section.heading}`,
         url: `/blogs/${post.slug}`,
         text: clip(section.parts.join("\n"), 2500),
       });
@@ -114,7 +114,7 @@ const blogChunks = async () => {
       chunks.push({
         key: `blog:${post.slug}:faqs`,
         source: "blog",
-        title: `${post.title} — FAQs`,
+        title: `${post.title} - FAQs`,
         url: `/blogs/${post.slug}`,
         text: post.faqs.map((f) => `Q: ${f.q}\nA: ${stripMarkdown(f.a)}`).join("\n"),
       });

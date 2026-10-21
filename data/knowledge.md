@@ -1,7 +1,7 @@
 # Knowledge base for the AI support assistant.
 # Each "## " heading becomes one searchable chunk. Edit freely, then run
 # `npm run ingest:knowledge` to re-embed. Only state facts the business stands
-# behind — the assistant repeats these word for word to customers.
+# behind - the assistant repeats these word for word to customers.
 
 ## About Digital Security Solutions
 Digital Security Solutions (DSS, also known as Digital Security India) is a Delhi-based supplier and installer of security and surveillance systems, established in 2008 (18+ years of experience). Tagline: "Surety of Security". We serve homes, residential societies, shops, offices, factories, warehouses, schools, hospitals and government organisations across Delhi NCR and India. We are MSME registered (Ministry of MSME, Govt. of India), ISO 9001:2015 certified and listed on GeM (Government e-Marketplace).
